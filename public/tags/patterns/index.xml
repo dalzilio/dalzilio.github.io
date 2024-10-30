@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patterns on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/patterns/</link>
+    <description>Recent content in Patterns on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RT-MOBS: A compositional observer semantics of time Petri net for real-time property specification language based on μ-calculus</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/scp2021rtmobs/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/scp2021rtmobs/</guid>
+      <description>Ning Ge, Silvano Dal Zilio, Hongyu Liu, Li Zhang, Lianyi Zhang &lt;br /&gt;
+&lt;em&gt;Science of Computer Programming&lt;/em&gt; 206, apr 2021.</description>
+      
+    </item>
+    
+    <item>
+      <title>Formal Verification of User-Level Real-Time Property Patterns</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/tase2017patterns/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/tase2017patterns/</guid>
+      <description>Ning Ge, Marc Pantel, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;TASE 2017&lt;/em&gt; — &lt;em&gt;11th International Symposium on Theoretical Aspects of Software Engineering&lt;/em&gt;, sep 2017.</description>
+      
+    </item>
+    
+    <item>
+      <title>Automating the Verification of Realtime Observers using Probes and the Modal mu-calculus</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ttcs2015probes/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ttcs2015probes/</guid>
+      <description>Silvano Dal Zilio, Bernard Berthomieu &lt;br /&gt;
+In &lt;em&gt;TTCS 2015&lt;/em&gt; — &lt;em&gt;1st IFIP International Conference on Topics in Theoretical Computer Science&lt;/em&gt;, aug 2015.</description>
+      
+    </item>
+    
+    <item>
+      <title>A formal framework to specify and verify real-time properties on critical systems</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ijccbs2014verifpatterns/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ijccbs2014verifpatterns/</guid>
+      <description>Nouha Abid, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+&lt;em&gt;International Journal of Critical Computer-Based Systems (IJCCBS)&lt;/em&gt; 5(1/2):4—30, mar 2014.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Verified Approach for Checking Real-Time Specification Patterns</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/vecos2012verifpatterns/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/vecos2012verifpatterns/</guid>
+      <description>Nouha Abid, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+In &lt;em&gt;VECoS 2012&lt;/em&gt; — &lt;em&gt;6th International Workshop on Verification and Evaluation of Computer and Communication Systems&lt;/em&gt;, sep 2012.</description>
+      
+    </item>
+    
+    <item>
+      <title>Real-Time Specification Patterns and Tools</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/fmics2012patterns/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/fmics2012patterns/</guid>
+      <description>Nouha Abid, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+In &lt;em&gt;FMICS 2012&lt;/em&gt; — &lt;em&gt;17th International Workshop on Formal Methods for Industrial Critical Systems&lt;/em&gt;, sep 2012.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Timed Graphical Interval Logic</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rtgil/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rtgil/</guid>
+      <description>Silvano Dal Zilio, Nouha Abid &lt;br /&gt;
+&lt;em&gt;Research Report 12368&lt;/em&gt;, LAAS, jul 2012.</description>
+      
+    </item>
+    
+    <item>
+      <title>Verification of Real-Time Specification Patterns on Time Transitions Systems</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/veriftts/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/veriftts/</guid>
+      <description>Silvano Dal Zilio, Nouha Abid, Didier Le Botlan &lt;br /&gt;
+&lt;em&gt;Research Report 11365&lt;/em&gt;, LAAS, jun 2011.</description>
+      
+    </item>
+    
+    <item>
+      <title>Definition of the Fiacre Real-Time Specification Patterns Language</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/t212quarteftrr/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/t212quarteftrr/</guid>
+      <description>Silvano Dal Zilio, Nouha Abid, Didier Le Botlan, Bernard Berthomieu, François Vernadat, Mamoun Filali, Jean-Paul Bodeveix &lt;br /&gt;
+&lt;em&gt;Research Report T2-12-B&lt;/em&gt;, Quarteft Project deliverable, jan 2011.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

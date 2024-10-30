@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tina on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/tina/</link>
+    <description>Recent content in Tina on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/tina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From FMTV to WATERS: Lessons Learned from the First Verification Challenge at ECRTS (Artifact)</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ecrts2023artifact/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ecrts2023artifact/</guid>
+      <description>Sebastian Altmeyer, Étienne André, Silvano Dal Zilio, Loïc Fejoz, Michael González Harbour, Susanne Graf, J. Javier Gutiérrez, Rafik Henia, Didier Le Botlan, Giuseppe Lipari, Julio Medina, Nicolas Navet, Sophie Quinton, Juan Rivas, Youcheng Sun &lt;br /&gt;
+&lt;em&gt;Dagstuhl Artifacts Series (DARTS)&lt;/em&gt; 9(1), jul 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/ecrts2023artifact/featured.png" />
+    </item>
+    
+    <item>
+      <title>From FMTV to WATERS: Lessons Learned from the First Verification Challenge at ECRTS (Invited Paper)</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ecrts2023waters/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ecrts2023waters/</guid>
+      <description>Sebastian Altmeyer, Étienne André, Silvano Dal Zilio, Loïc Fejoz, Michael González Harbour, Susanne Graf, J. Javier Gutiérrez, Rafik Henia, Didier Le Botlan, Giuseppe Lipari, Julio Medina, Nicolas Navet, Sophie Quinton, Juan Rivas, Youcheng Sun &lt;br /&gt;
+In &lt;em&gt;ECRTS 2023&lt;/em&gt; — &lt;em&gt;35th Euromicro Conference on Real-Time Systems&lt;/em&gt;, jul 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/ecrts2023waters/featured.png" />
+    </item>
+    
+    <item>
+      <title>Counting Petri net markings from reduction equations</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/sttt2019counting/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/sttt2019counting/</guid>
+      <description>Bernard Berthomieu, Didier Le Botlan, Silvano Dal Zilio &lt;br /&gt;
+&lt;em&gt;International Journal on Software Tools for Technology Transfer (STTT)&lt;/em&gt; :1—19, apr 2019.</description>
+      
+    </item>
+    
+    <item>
+      <title>Presentation of the 9th Edition of the Model Checking Contest</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/toolympics2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/toolympics2019/</guid>
+      <description>Elvio Amparore, Bernard Berthomieu, Gianfranco Ciardo, Silvano Dal Zilio, Francesco Gallà, Lom Messan Hillah, Francis Hulin-Hubard, Peter Gjøl Jensen, Loïg Jezequel, Fabrice Kordon, Didier Le Botlan, Torsten Liebke, Jeroen Meijer, Andrew Miner, Emmanuel Paviot-Adet, Jiří Srba, Yann Thierry-Mieg, Tom van Dijk, Karsten Wolf &lt;br /&gt;
+In &lt;em&gt;TACAS 2019&lt;/em&gt; — &lt;em&gt;Tools and Algorithms for the Construction and Analysis of Systems&lt;/em&gt;, apr 2019.</description>
+      
+    </item>
+    
+    <item>
+      <title>Formal Verification of Complex Robotic Systems on Resource-Constrained Platforms</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/icse2018genom/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/icse2018genom/</guid>
+      <description>Mohammed Foughali, Bernard Berthomieu, Silvano Dal Zilio, Pierre-Emmanuel Hladik, Félix Ingrand, Anthony Mallet &lt;br /&gt;
+In &lt;em&gt;FormaliSE&lt;/em&gt; — &lt;em&gt;6th International Conference on Formal Methods in Software Engineering&lt;/em&gt;, jun 2018.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/icse2018genom/featured.png" />
+    </item>
+    
+    <item>
+      <title>Petri Net Reductions for Counting Markings</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/spin2018counting/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/spin2018counting/</guid>
+      <description>Bernard Berthomieu, Didier Le Botlan, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;SPIN 2018&lt;/em&gt; — &lt;em&gt;International Symposium on Model Checking Software&lt;/em&gt;, jun 2018.</description>
+      
+    </item>
+    
+    <item>
+      <title>Symmetry reduction for time Petri net state classes</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/scp2016symmetries/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/scp2016symmetries/</guid>
+      <description>Pierre-Alain Bourdil, Bernard Berthomieu, Silvano Dal Zilio, François Vernadat &lt;br /&gt;
+&lt;em&gt;Science of Computer Programming&lt;/em&gt; 132(2):209—225, aug 2016.</description>
+      
+    </item>
+    
+    <item>
+      <title>Automating the Verification of Realtime Observers using Probes and the Modal mu-calculus</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ttcs2015probes/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ttcs2015probes/</guid>
+      <description>Silvano Dal Zilio, Bernard Berthomieu &lt;br /&gt;
+In &lt;em&gt;TTCS 2015&lt;/em&gt; — &lt;em&gt;1st IFIP International Conference on Topics in Theoretical Computer Science&lt;/em&gt;, aug 2015.</description>
+      
+    </item>
+    
+    <item>
+      <title>Latency Analysis of an Aerial Video Tracking System Using Fiacre and Tina</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/waters2015video/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/waters2015video/</guid>
+      <description>Silvano Dal Zilio, Bernard Berthomieu, Didier Le Botlan &lt;br /&gt;
+In &lt;em&gt;WATERS 2015&lt;/em&gt; — &lt;em&gt;6th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems (FMTV verification challenge)&lt;/em&gt;, jul 2015.</description>
+      
+    </item>
+    
+    <item>
+      <title>Symmetry reduced state classes for time petri nets</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/sac2015symmetry/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/sac2015symmetry/</guid>
+      <description>Pierre-Alain Bourdil, Bernard Berthomieu, Silvano Dal Zilio, François Vernadat &lt;br /&gt;
+In &lt;em&gt;SAC 2015&lt;/em&gt; — &lt;em&gt;30th Annual ACM Symposium on Applied Computing&lt;/em&gt;, apr 2015.</description>
+      
+    </item>
+    
+    <item>
+      <title>Time Petri Nets with Dynamic Firing Dates: Semantics and Applications</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/formats2014fickle/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/formats2014fickle/</guid>
+      <description>Lukasz Fronc, Silvano Dal Zilio, Bernard Berthomieu, François Vernadat &lt;br /&gt;
+In &lt;em&gt;FORMATS 2014&lt;/em&gt; — &lt;em&gt;12th International Conference on Formal Modeling and Analysis of Timed Systems&lt;/em&gt;, sep 2014.</description>
+      
+    </item>
+    
+    <item>
+      <title>Time Petri nets with dynamic firing dates: semantics and applications</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ficklerr/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ficklerr/</guid>
+      <description>Lukasz Fronc, Silvano Dal Zilio, Bernard Berthomieu, François Vernadat &lt;br /&gt;
+&lt;em&gt;Research Report 14148&lt;/em&gt;, LAAS, may 2014.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

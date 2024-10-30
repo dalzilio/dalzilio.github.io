@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://homepages.laas.fr/dalzilio/sitemap.xml

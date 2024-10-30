@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Ambients on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/mobile-ambients/</link>
+    <description>Recent content in Mobile Ambients on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/mobile-ambients/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Logic you Can Count On</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/logiccount/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/logiccount/</guid>
+      <description>Silvano Dal Zilio, Denis Lugiez, Charles Meyssonnier &lt;br /&gt;
+In &lt;em&gt;POPL 2004&lt;/em&gt; — &lt;em&gt;31st Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages&lt;/em&gt;, jan 2004.</description>
+      
+    </item>
+    
+    <item>
+      <title>Model Checking Mobile Ambients</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/modelcheckambient/</link>
+      <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/modelcheckambient/</guid>
+      <description>Witold Charatonik, Silvano Dal Zilio, Andrew D. Gordon, Supratik Mukhopadhyay, Jean-Marc Talbot &lt;br /&gt;
+&lt;em&gt;Theoretical Computer Science&lt;/em&gt; 308(1):277—331, nov 2003.</description>
+      
+    </item>
+    
+    <item>
+      <title>Fixed Points in the Ambient Logic</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/fics2001/</link>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/fics2001/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;FICS 2001&lt;/em&gt; — &lt;em&gt;3rd Workshop on Fixed Points in Computer Science&lt;/em&gt;, sep 2001.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Complexity of Model Checking Mobile Ambients</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/complexity/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/complexity/</guid>
+      <description>Witold Charatonik, Silvano Dal Zilio, Andrew D. Gordon, Supratik Mukhopadhyay, Jean-Marc Talbot &lt;br /&gt;
+In &lt;em&gt;FoSSaCS 2001&lt;/em&gt; — &lt;em&gt;4th International Conference on Foundations of Software Science and Computation Structures&lt;/em&gt;, apr 2001.</description>
+      
+    </item>
+    
+    <item>
+      <title>Spatial Congruence for the Ambients is Decidable</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/spacongdec/</link>
+      <pubDate>Wed, 01 Nov 2000 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/spacongdec/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;ASIAN&#39;00&lt;/em&gt; — &lt;em&gt;6th Asian Computing Science Conference&lt;/em&gt;, nov 2000.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

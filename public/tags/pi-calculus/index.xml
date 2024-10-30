@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pi Calculus on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/pi-calculus/</link>
+    <description>Recent content in Pi Calculus on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Wed, 01 May 2002 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/pi-calculus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Region analysis and a pi-calculus with groups</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/regionsjfp/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/regionsjfp/</guid>
+      <description>Silvano Dal Zilio, Andrew D. Gordon &lt;br /&gt;
+&lt;em&gt;Journal of Functional Programming&lt;/em&gt; 12(3):229—292, may 2002.</description>
+      
+    </item>
+    
+    <item>
+      <title>Mobile Processes: a Commented Bibliography</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/movep/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/movep/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;MOVEP&#39;2K&lt;/em&gt; — &lt;em&gt;4th Summer school on Modelling and Verification of Parallel processes&lt;/em&gt;, jun 2001.</description>
+      
+    </item>
+    
+    <item>
+      <title>Region analysis and a pi-calculus with groups</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/regions/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/regions/</guid>
+      <description>Silvano Dal Zilio, Andrew D. Gordon &lt;br /&gt;
+In &lt;em&gt;MFCS 2000&lt;/em&gt; — &lt;em&gt;25th International Symposium on Mathematical Foundations of Computer Science&lt;/em&gt;, aug 2000.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

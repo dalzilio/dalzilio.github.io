@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XML on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/xml/</link>
+    <description>Recent content in XML on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Fri, 01 Aug 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COPS</title>
+      <link>https://homepages.laas.fr/dalzilio/projects/cops/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/projects/cops/</guid>
+      <description>&lt;p&gt;Mar 2006 — Dec 2008.&lt;/p&gt;
+&lt;p&gt;COPS (&lt;em&gt;Composition des politiques et des services&lt;/em&gt; / Composition of Services and
+Policies) is an ANR funded project studying formal methods for Service Oriented
+Applications.&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/projects/cops/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>TraLaLa</title>
+      <link>https://homepages.laas.fr/dalzilio/projects/tralala/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/projects/tralala/</guid>
+      <description>&lt;p&gt;Nov 2004 — Feb 2008.&lt;/p&gt;
+&lt;p&gt;TraLaLA, XML Transformation Languages: logic and applications, is a project
+funded by ACI MASSES DE DONNÉES.&lt;/p&gt;
+&lt;p&gt;The objectives of the project is to study the processing, querying and
+manipulation of &lt;em&gt;data-masses&lt;/em&gt; (large amounts of data) available in XML format.&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/projects/tralala/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>A Typed Calculus for Querying Distributed XML Documents</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/tcqxml/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/tcqxml/</guid>
+      <description>Lucia Acciai, Michele Boreale, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;TGC 2006&lt;/em&gt; — &lt;em&gt;2nd symposium on Trustworthy Global Computing&lt;/em&gt;, jan 2007.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Concurrent Calculus with Atomic Transactions</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/atccs-long/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/atccs-long/</guid>
+      <description>Lucia Acciai, Michele Boreale, Silvano Dal Zilio &lt;br /&gt;
+preprint, oct 2006.</description>
+      
+    </item>
+    
+    <item>
+      <title>XML schema, tree logic and sheaves automata</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/xmlsheavesaaecc/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/xmlsheavesaaecc/</guid>
+      <description>Silvano Dal Zilio, Denis Lugiez &lt;br /&gt;
+&lt;em&gt;Applicable Algebra in Engineering, Communication and Computing&lt;/em&gt; 17(5):337—377, oct 2006.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Typed Calculus for Querying Distributed XML Documents</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/tcqxmlnwpt/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/tcqxmlnwpt/</guid>
+      <description>Lucia Acciai, Michele Boreale, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;NWPT 2005&lt;/em&gt; — &lt;em&gt;17th Nordic Workshop on Programming Theory&lt;/em&gt;, oct 2005.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Logic you Can Count On</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/logiccount/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/logiccount/</guid>
+      <description>Silvano Dal Zilio, Denis Lugiez, Charles Meyssonnier &lt;br /&gt;
+In &lt;em&gt;POPL 2004&lt;/em&gt; — &lt;em&gt;31st Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages&lt;/em&gt;, jan 2004.</description>
+      
+    </item>
+    
+    <item>
+      <title>XML Schema, Tree Logic and Sheaves Automata</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/xmlsheaves/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/xmlsheaves/</guid>
+      <description>Silvano Dal Zilio, Denis Lugiez &lt;br /&gt;
+In &lt;em&gt;RTA 2003&lt;/em&gt; — &lt;em&gt;14th International Conference on Rewriting Techniques and Applications&lt;/em&gt;, jun 2003.</description>
+      
+    </item>
+    
+    <item>
+      <title>Multitrees Automata, Presburger&#39;s Constraints and Tree Logics</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/multitapresb/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/multitapresb/</guid>
+      <description>Silvano Dal Zilio, Denis Lugiez &lt;br /&gt;
+&lt;em&gt;Research Report 08-2002&lt;/em&gt;, LIF, jun 2002.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

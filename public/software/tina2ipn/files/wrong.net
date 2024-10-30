@@ -1,0 +1,16 @@
+tr t05 : {hasNextWP/goNextWP} [0,w[ p5 -> p3
+tr t03 : {lastWP,lastWP/goBase} [0,w[ p5 -> p6
+tr t04 : {arrivedWP/exit} [0,w[ p6 -> p7
+tr t02 : {/goBase} [0,w[ p2 -> p4
+tr t00 : {noAction/riseArm,initNave} [0,w[ p0 -> p1
+tr t1 : {noAction/calibLightSensor} [0,w[ p1 -> p2
+tr t14 : {arrivedWP/} [0,w[ p4 -> p5
+tr t0 : {arrivedWP/} [0,w[ p3 -> p5
+pl p0 (1)
+pl p5 : checkingWP
+pl p3 : goingNextWP
+pl p7 : atBaseEnd
+pl p1 : initializing
+pl p2 : gettingReady
+pl p4 : going2B
+net initialNavi

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucia Acciai on Silvano DAL ZILIO</title>
+    <link>http://localhost:1313/dalzilio/authors/lucia-acciai/</link>
+    <description>Recent content in Lucia Acciai on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Sun, 01 Oct 2006 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/dalzilio/authors/lucia-acciai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Concurrent Calculus with Atomic Transactions</title>
+      <link>http://localhost:1313/dalzilio/publications/atccs-long/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>http://localhost:1313/dalzilio/publications/atccs-long/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

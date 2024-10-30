@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twina on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/twina/</link>
+    <description>Recent content in Twina on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/twina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Product Construction for the Diagnosability of Patterns in Time Petri Net</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/cdc2020diag/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/cdc2020diag/</guid>
+      <description>Éric Lubat, Silvano Dal Zilio, Didier Le Botlan, Yannick Pencolé, Audine Subias &lt;br /&gt;
+In &lt;em&gt;CDC 2020&lt;/em&gt; — &lt;em&gt;59th IEEE Conference on Decision and Control&lt;/em&gt;, dec 2020.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Short Overview on Diagnosability of Patterns in Timed Petri Net</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/movep2020twina/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/movep2020twina/</guid>
+      <description>Éric Lubat, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;MOVEP 2020&lt;/em&gt; — &lt;em&gt;14th Summer School on Modelling and Verification of Parallel Processes&lt;/em&gt;, jun 2020.</description>
+      
+    </item>
+    
+    <item>
+      <title>A State Class Construction for Computing the Intersection of Time Petri Nets Languages</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/formats2019twina/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/formats2019twina/</guid>
+      <description>Éric Lubat, Silvano Dal Zilio, Didier Le Botlan, Yannick Pencolé, Audine Subias &lt;br /&gt;
+In &lt;em&gt;FORMATS 2019&lt;/em&gt; — &lt;em&gt;17th International Conference on Formal Modeling and Analysis of Timed Systems&lt;/em&gt;, aug 2019.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/formats2019twina/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

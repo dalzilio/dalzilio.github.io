@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use Case on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/use-case/</link>
+    <description>Recent content in Use Case on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/use-case/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From FMTV to WATERS: Lessons Learned from the First Verification Challenge at ECRTS (Artifact)</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ecrts2023artifact/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ecrts2023artifact/</guid>
+      <description>Sebastian Altmeyer, Étienne André, Silvano Dal Zilio, Loïc Fejoz, Michael González Harbour, Susanne Graf, J. Javier Gutiérrez, Rafik Henia, Didier Le Botlan, Giuseppe Lipari, Julio Medina, Nicolas Navet, Sophie Quinton, Juan Rivas, Youcheng Sun &lt;br /&gt;
+&lt;em&gt;Dagstuhl Artifacts Series (DARTS)&lt;/em&gt; 9(1), jul 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/ecrts2023artifact/featured.png" />
+    </item>
+    
+    <item>
+      <title>From FMTV to WATERS: Lessons Learned from the First Verification Challenge at ECRTS (Invited Paper)</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ecrts2023waters/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ecrts2023waters/</guid>
+      <description>Sebastian Altmeyer, Étienne André, Silvano Dal Zilio, Loïc Fejoz, Michael González Harbour, Susanne Graf, J. Javier Gutiérrez, Rafik Henia, Didier Le Botlan, Giuseppe Lipari, Julio Medina, Nicolas Navet, Sophie Quinton, Juan Rivas, Youcheng Sun &lt;br /&gt;
+In &lt;em&gt;ECRTS 2023&lt;/em&gt; — &lt;em&gt;35th Euromicro Conference on Real-Time Systems&lt;/em&gt;, jul 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/ecrts2023waters/featured.png" />
+    </item>
+    
+    <item>
+      <title>Time-accurate Middleware for the Virtualization of Communication Protocols</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rr2018scalian/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rr2018scalian/</guid>
+      <description>Rafael Scarduelli, Pierre-Alain Bourdil, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+&lt;em&gt;Research Report 18126&lt;/em&gt;, LAAS, may 2018.</description>
+      
+    </item>
+    
+    <item>
+      <title>Timed Formal Model and Verification of Satellite FDIR in Early Design Phase</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ertss2018fdir/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ertss2018fdir/</guid>
+      <description>Alexandre Albore, Silvano Dal Zilio, Marie De Roquemaurel, Christel Seguin, Pierre Virelizier &lt;br /&gt;
+In &lt;em&gt;ERTS 2018&lt;/em&gt; — &lt;em&gt;9th European Congress on Embedded Real Time Software and Systems&lt;/em&gt;, jan 2018.</description>
+      
+    </item>
+    
+    <item>
+      <title>Latency Analysis of an Aerial Video Tracking System Using Fiacre and Tina</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/waters2015video/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/waters2015video/</guid>
+      <description>Silvano Dal Zilio, Bernard Berthomieu, Didier Le Botlan &lt;br /&gt;
+In &lt;em&gt;WATERS 2015&lt;/em&gt; — &lt;em&gt;6th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems (FMTV verification challenge)&lt;/em&gt;, jul 2015.</description>
+      
+    </item>
+    
+    <item>
+      <title>Model-Checking Real-Time Properties of an Aircraft Landing Gear System Using Fiacre</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/abz2014landinggear/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/abz2014landinggear/</guid>
+      <description>Lukasz Fronc, Silvano Dal Zilio, Bernard Berthomieu &lt;br /&gt;
+In &lt;em&gt;ABZ 2014: The Landing Gear Case Study&lt;/em&gt; — &lt;em&gt;Case Study Track, 4th International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z&lt;/em&gt;, jun 2014.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

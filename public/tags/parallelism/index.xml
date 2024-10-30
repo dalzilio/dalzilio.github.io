@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parallelism on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/parallelism/</link>
+    <description>Recent content in Parallelism on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/parallelism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Experiment on Parallel Model Checking of a CTL Fragment</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/atva2012mclcd/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/atva2012mclcd/</guid>
+      <description>Rodrigo Tacla Saad, Silvano Dal Zilio, Bernard Berthomieu &lt;br /&gt;
+In &lt;em&gt;ATVA 2012&lt;/em&gt; — &lt;em&gt;10th International Symposium on Automated Technology for Verification and Analysis&lt;/em&gt;, oct 2012.</description>
+      
+    </item>
+    
+    <item>
+      <title>Mixed Shared-Distributed Hash Tables Approaches for Parallel State Space Construction</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/mixedhashispdc/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/mixedhashispdc/</guid>
+      <description>Rodrigo Tacla Saad, Silvano Dal Zilio, Bernard Berthomieu &lt;br /&gt;
+In &lt;em&gt;ISPDC 2011&lt;/em&gt; — &lt;em&gt;10th International Symposium on Parallel and Distributed Computing&lt;/em&gt;, jul 2011.</description>
+      
+    </item>
+    
+    <item>
+      <title>A General Lock-Free Algorithm for Parallel State Space Construction</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/lockfreesscpdmc/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/lockfreesscpdmc/</guid>
+      <description>Bernard Berthomieu, Silvano Dal Zilio, Rodrigo Tacla Saad &lt;br /&gt;
+In &lt;em&gt;PDMC 2010&lt;/em&gt; — &lt;em&gt;9th International Workshop on Parallel and Distributed Methods in verifiCation&lt;/em&gt;, oct 2010.</description>
+      
+    </item>
+    
+    <item>
+      <title>Enumerative Parallel and Distributed State Space Construction</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/etr2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/etr2009/</guid>
+      <description>Rodrigo Tacla Saad, Silvano Dal Zilio, François Vernadat, Bernard Berthomieu &lt;br /&gt;
+preprint, aug 2009.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

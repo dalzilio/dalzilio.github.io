@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/software/</link>
+    <description>Recent content in Software on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <atom:link href="https://homepages.laas.fr/dalzilio/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tina2IPN</title>
+      <link>https://homepages.laas.fr/dalzilio/software/tina2ipn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/software/tina2ipn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;main architect:&lt;/strong&gt; Silvano Dal Zilio&lt;/p&gt;
+&lt;p&gt;Tina2IPN is a single-page application that generates an Interpreted
+Petri net file (&lt;em&gt;rdp&lt;/em&gt;) from a net file and a table associating labels with
+actions.&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/software/tina2ipn/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

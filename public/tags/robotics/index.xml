@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/robotics/</link>
+    <description>Recent content in Robotics on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A formal toolchain for offline and run-time verification of robotic systems</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ras2023hippo/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ras2023hippo/</guid>
+      <description>Silvano Dal Zilio, Pierre-Emmanuel Hladik, Félix Ingrand, Mallet Anthony &lt;br /&gt;
+&lt;em&gt;Robotics and Autonomous Systems&lt;/em&gt; 159, jan 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/ras2023hippo/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hippo: A formal-model execution engine to control and verify critical real-time systems</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/jss2021hippo/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/jss2021hippo/</guid>
+      <description>Pierre-Emmanuel Hladik, Félix Ingrand, Silvano Dal Zilio, Reyyan Tekin &lt;br /&gt;
+&lt;em&gt;Journal of Systems and Software&lt;/em&gt; 181, nov 2021.</description>
+      
+    </item>
+    
+    <item>
+      <title>On the Semantics of the GenoM3 Framework</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rr2019genom/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rr2019genom/</guid>
+      <description>Mohammed Foughali, Silvano Dal Zilio, Félix Ingrand &lt;br /&gt;
+&lt;em&gt;Research Report 19036&lt;/em&gt;, LAAS, jan 2019.</description>
+      
+    </item>
+    
+    <item>
+      <title>Formal Verification of Complex Robotic Systems on Resource-Constrained Platforms</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/icse2018genom/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/icse2018genom/</guid>
+      <description>Mohammed Foughali, Bernard Berthomieu, Silvano Dal Zilio, Pierre-Emmanuel Hladik, Félix Ingrand, Anthony Mallet &lt;br /&gt;
+In &lt;em&gt;FormaliSE&lt;/em&gt; — &lt;em&gt;6th International Conference on Formal Methods in Software Engineering&lt;/em&gt;, jun 2018.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/icse2018genom/featured.png" />
+    </item>
+    
+    <item>
+      <title>Model Checking Real-Time Properties on the Functional Layer of Autonomous Robots</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/icfem2016robots/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/icfem2016robots/</guid>
+      <description>Mohammed Foughali, Bernard Berthomieu, Silvano Dal Zilio, Félix Ingrand, Anthony Mallet &lt;br /&gt;
+In &lt;em&gt;ICFEM 2016&lt;/em&gt; — &lt;em&gt;18th International Conference on Formal Engineering Methods&lt;/em&gt;, nov 2016.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

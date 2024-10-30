@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concurrency on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/concurrency/</link>
+    <description>Recent content in Concurrency on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking marking reachability with the state equation in Petri net subclasses</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rr2020preqr/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rr2020preqr/</guid>
+      <description>Thomas Hujsa, Bernard Berthomieu, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+preprint, jun 2020.</description>
+      
+    </item>
+    
+    <item>
+      <title>On the Petri Nets with a Single Shared Place and Beyond</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rr2020ssplace/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rr2020ssplace/</guid>
+      <description>Thomas Hujsa, Bernard Berthomieu, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+preprint, may 2020.</description>
+      
+    </item>
+    
+    <item>
+      <title>TraLaLa</title>
+      <link>https://homepages.laas.fr/dalzilio/projects/tralala/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/projects/tralala/</guid>
+      <description>&lt;p&gt;Nov 2004 — Feb 2008.&lt;/p&gt;
+&lt;p&gt;TraLaLA, XML Transformation Languages: logic and applications, is a project
+funded by ACI MASSES DE DONNÉES.&lt;/p&gt;
+&lt;p&gt;The objectives of the project is to study the processing, querying and
+manipulation of &lt;em&gt;data-masses&lt;/em&gt; (large amounts of data) available in XML format.&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/projects/tralala/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>A Typed Calculus for Querying Distributed XML Documents</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/tcqxml/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/tcqxml/</guid>
+      <description>Lucia Acciai, Michele Boreale, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;TGC 2006&lt;/em&gt; — &lt;em&gt;2nd symposium on Trustworthy Global Computing&lt;/em&gt;, jan 2007.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Typed Calculus for Querying Distributed XML Documents</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/tcqxmlnwpt/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/tcqxmlnwpt/</guid>
+      <description>Lucia Acciai, Michele Boreale, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;NWPT 2005&lt;/em&gt; — &lt;em&gt;17th Nordic Workshop on Programming Theory&lt;/em&gt;, oct 2005.</description>
+      
+    </item>
+    
+    <item>
+      <title>On the Dynamics of PB Systems: A Petri Net View</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/pbsystpn/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/pbsystpn/</guid>
+      <description>Silvano Dal Zilio, Enrico Formenti &lt;br /&gt;
+In &lt;em&gt;WMC 2003&lt;/em&gt; — &lt;em&gt;Workshop on Membrane Computing&lt;/em&gt;, jan 2004.</description>
+      
+    </item>
+    
+    <item>
+      <title>Model Checking Mobile Ambients</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/modelcheckambient/</link>
+      <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/modelcheckambient/</guid>
+      <description>Witold Charatonik, Silvano Dal Zilio, Andrew D. Gordon, Supratik Mukhopadhyay, Jean-Marc Talbot &lt;br /&gt;
+&lt;em&gt;Theoretical Computer Science&lt;/em&gt; 308(1):277—331, nov 2003.</description>
+      
+    </item>
+    
+    <item>
+      <title>Region analysis and a pi-calculus with groups</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/regionsjfp/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/regionsjfp/</guid>
+      <description>Silvano Dal Zilio, Andrew D. Gordon &lt;br /&gt;
+&lt;em&gt;Journal of Functional Programming&lt;/em&gt; 12(3):229—292, may 2002.</description>
+      
+    </item>
+    
+    <item>
+      <title>Fixed Points in the Ambient Logic</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/fics2001/</link>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/fics2001/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;FICS 2001&lt;/em&gt; — &lt;em&gt;3rd Workshop on Fixed Points in Computer Science&lt;/em&gt;, sep 2001.</description>
+      
+    </item>
+    
+    <item>
+      <title>Mobile Processes: a Commented Bibliography</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/movep/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/movep/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;MOVEP&#39;2K&lt;/em&gt; — &lt;em&gt;4th Summer school on Modelling and Verification of Parallel processes&lt;/em&gt;, jun 2001.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Complexity of Model Checking Mobile Ambients</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/complexity/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/complexity/</guid>
+      <description>Witold Charatonik, Silvano Dal Zilio, Andrew D. Gordon, Supratik Mukhopadhyay, Jean-Marc Talbot &lt;br /&gt;
+In &lt;em&gt;FoSSaCS 2001&lt;/em&gt; — &lt;em&gt;4th International Conference on Foundations of Software Science and Computation Structures&lt;/em&gt;, apr 2001.</description>
+      
+    </item>
+    
+    <item>
+      <title>Spatial Congruence for the Ambients is Decidable</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/spacongdec/</link>
+      <pubDate>Wed, 01 Nov 2000 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/spacongdec/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;ASIAN&#39;00&lt;/em&gt; — &lt;em&gt;6th Asian Computing Science Conference&lt;/em&gt;, nov 2000.</description>
+      
+    </item>
+    
+    <item>
+      <title>An Interpretation of Typed Concurrent Objects in the Blue Calculus</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/interptypcoo/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/interptypcoo/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;IFIP TCS 2000&lt;/em&gt; — &lt;em&gt;International Conference on Theoretical Computer Science&lt;/em&gt;, aug 2000.</description>
+      
+    </item>
+    
+    <item>
+      <title>Region analysis and a pi-calculus with groups</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/regions/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/regions/</guid>
+      <description>Silvano Dal Zilio, Andrew D. Gordon &lt;br /&gt;
+In &lt;em&gt;MFCS 2000&lt;/em&gt; — &lt;em&gt;25th International Symposium on Mathematical Foundations of Computer Science&lt;/em&gt;, aug 2000.</description>
+      
+    </item>
+    
+    <item>
+      <title>Le calcul bleu: types et objets</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/these/</link>
+      <pubDate>Thu, 01 Jul 1999 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/these/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+PhD thesis, Université de Nice - Sophia-Antipolis, jul 1999.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Bisimulation for the Blue Calculus</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rr3664/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rr3664/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+&lt;em&gt;Research Report 3664&lt;/em&gt;, INRIA, apr 1999.</description>
+      
+    </item>
+    
+    <item>
+      <title>Implicit Polymorphic Type System for the Blue Calculus</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rr3244/</link>
+      <pubDate>Mon, 01 Sep 1997 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rr3244/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+&lt;em&gt;Research Report 3244&lt;/em&gt;, INRIA, sep 1997.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

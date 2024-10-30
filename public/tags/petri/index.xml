@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petri on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/petri/</link>
+    <description>Recent content in Petri on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/petri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Complexity of Proving Polyhedral Reductions</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/fi2023polyprove/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/fi2023polyprove/</guid>
+      <description>Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+&lt;em&gt;Fundamenta Informaticae&lt;/em&gt; 192(3-4), sep 2024.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/fi2023polyprove/featured.png" />
+    </item>
+    
+    <item>
+      <title>Project and Conquer: Fast Quantifier Elimination for Checking Petri Net Reachability</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/vmcai2024octant/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/vmcai2024octant/</guid>
+      <description>Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+In &lt;em&gt;VMCAI 2024&lt;/em&gt; — &lt;em&gt;Verification, Model Checking, and Abstract Interpretation&lt;/em&gt;, jan 2024.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/vmcai2024octant/featured.png" />
+    </item>
+    
+    <item>
+      <title>Leveraging polyhedral reductions for solving Petri net reachability problems</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ijsttt2023poly/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ijsttt2023poly/</guid>
+      <description>Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+&lt;em&gt;International Journal on Software Tools for Technology Transfer&lt;/em&gt; 25, dec 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/ijsttt2023poly/featured.png" />
+    </item>
+    
+    <item>
+      <title>Polyhedral Reductions for Petri nets (Poster)</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/poster2023polyhedral/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/poster2023polyhedral/</guid>
+      <description>Nicolas Amat, Bernard Berthomieu, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+In &lt;em&gt;MSR 2023&lt;/em&gt; — &lt;em&gt;Modélisation des Systèmes Réactifs&lt;/em&gt;, nov 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/poster2023polyhedral/featured.png" />
+    </item>
+    
+    <item>
+      <title>Automated Polyhedral Abstraction Proving</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/petri2023autpolyprove/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/petri2023autpolyprove/</guid>
+      <description>Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+In &lt;em&gt;Petri nets 2023&lt;/em&gt; — &lt;em&gt;44th International Conference on Application and Theory of Petri Nets and Concurrency&lt;/em&gt;, jun 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/petri2023autpolyprove/featured.png" />
+    </item>
+    
+    <item>
+      <title>SMPT: A Testbed for Reachability Methods in Generalized Petri Nets</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/fm2023smpt/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/fm2023smpt/</guid>
+      <description>Nicolas Amat, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;FM 2023&lt;/em&gt; — &lt;em&gt;25th International Symposium on Formal Methods&lt;/em&gt;, mar 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/fm2023smpt/featured.png" />
+    </item>
+    
+    <item>
+      <title>A Polyhedral Abstraction for Petri nets and its Application to SMT-Based Model Checking</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/fi2022polyhedral/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/fi2022polyhedral/</guid>
+      <description>Nicolas Amat, Bernard Berthomieu, Silvano Dal Zilio &lt;br /&gt;
+&lt;em&gt;Fundamenta Informaticae&lt;/em&gt; 187(2-4), oct 2022.</description>
+      
+    </item>
+    
+    <item>
+      <title>Property Directed Reachability for Generalized Petri Nets</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/tacas2022pdr/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/tacas2022pdr/</guid>
+      <description>Nicolas Amat, Silvano Dal Zilio, Thomas Hujsa &lt;br /&gt;
+In &lt;em&gt;TACAS 2022&lt;/em&gt; — &lt;em&gt;International Conference on Tools and Algorithms for the Construction and Analysis of Systems&lt;/em&gt;, mar 2022.</description>
+      
+    </item>
+    
+    <item>
+      <title>Accelerating the Computation of Dead and Concurrent Places Using Reductions</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/spin2021kong/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/spin2021kong/</guid>
+      <description>Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+In &lt;em&gt;SPIN 2021&lt;/em&gt; — &lt;em&gt;International Symposium on Model Checking Software&lt;/em&gt;, jun 2021.</description>
+      
+    </item>
+    
+    <item>
+      <title>On the Combination of Polyhedral Abstraction and SMT-Based Model Checking for Petri Nets</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/petri2021smpt/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/petri2021smpt/</guid>
+      <description>Nicolas Amat, Silvano Dal Zilio, Bernard Berthomieu &lt;br /&gt;
+In &lt;em&gt;ICATPN 2021&lt;/em&gt; — &lt;em&gt;42nd International Conference on Application and Theory of Petri Nets and Concurrency&lt;/em&gt;, jun 2021.</description>
+      
+    </item>
+    
+    <item>
+      <title>Checking marking reachability with the state equation in Petri net subclasses</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rr2020preqr/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rr2020preqr/</guid>
+      <description>Thomas Hujsa, Bernard Berthomieu, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+preprint, jun 2020.</description>
+      
+    </item>
+    
+    <item>
+      <title>MCC: a Tool for Unfolding Colored Petri Nets in PNML Format</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/petri2020mcc/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/petri2020mcc/</guid>
+      <description>Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;ICATPN 2020&lt;/em&gt; — &lt;em&gt;41st International Conference on Application and Theory of Petri Nets and Concurrency&lt;/em&gt;, jun 2020.</description>
+      
+    </item>
+    
+    <item>
+      <title>On the Petri Nets with a Single Shared Place and Beyond</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/rr2020ssplace/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/rr2020ssplace/</guid>
+      <description>Thomas Hujsa, Bernard Berthomieu, Silvano Dal Zilio, Didier Le Botlan &lt;br /&gt;
+preprint, may 2020.</description>
+      
+    </item>
+    
+    <item>
+      <title>Counting Petri net markings from reduction equations</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/sttt2019counting/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/sttt2019counting/</guid>
+      <description>Bernard Berthomieu, Didier Le Botlan, Silvano Dal Zilio &lt;br /&gt;
+&lt;em&gt;International Journal on Software Tools for Technology Transfer (STTT)&lt;/em&gt; :1—19, apr 2019.</description>
+      
+    </item>
+    
+    <item>
+      <title>Presentation of the 9th Edition of the Model Checking Contest</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/toolympics2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/toolympics2019/</guid>
+      <description>Elvio Amparore, Bernard Berthomieu, Gianfranco Ciardo, Silvano Dal Zilio, Francesco Gallà, Lom Messan Hillah, Francis Hulin-Hubard, Peter Gjøl Jensen, Loïg Jezequel, Fabrice Kordon, Didier Le Botlan, Torsten Liebke, Jeroen Meijer, Andrew Miner, Emmanuel Paviot-Adet, Jiří Srba, Yann Thierry-Mieg, Tom van Dijk, Karsten Wolf &lt;br /&gt;
+In &lt;em&gt;TACAS 2019&lt;/em&gt; — &lt;em&gt;Tools and Algorithms for the Construction and Analysis of Systems&lt;/em&gt;, apr 2019.</description>
+      
+    </item>
+    
+    <item>
+      <title>Petri Net Reductions for Counting Markings</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/spin2018counting/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/spin2018counting/</guid>
+      <description>Bernard Berthomieu, Didier Le Botlan, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;SPIN 2018&lt;/em&gt; — &lt;em&gt;International Symposium on Model Checking Software&lt;/em&gt;, jun 2018.</description>
+      
+    </item>
+    
+    <item>
+      <title>Observation Graph implementation for TINA toolbox</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ewdcobsgraph/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ewdcobsgraph/</guid>
+      <description>Rodrigo Tacla Saad, François Vernadat, Bernard Berthomieu, Silvano Dal Zilio &lt;br /&gt;
+In &lt;em&gt;EWDC 2009&lt;/em&gt; — &lt;em&gt;12th European Workshop on Dependable Computing&lt;/em&gt;, may 2009.</description>
+      
+    </item>
+    
+    <item>
+      <title>On the Dynamics of PB Systems: A Petri Net View</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/pbsystpn/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/pbsystpn/</guid>
+      <description>Silvano Dal Zilio, Enrico Formenti &lt;br /&gt;
+In &lt;em&gt;WMC 2003&lt;/em&gt; — &lt;em&gt;Workshop on Membrane Computing&lt;/em&gt;, jan 2004.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

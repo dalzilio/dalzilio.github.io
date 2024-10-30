@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hippo on Silvano DAL ZILIO</title>
+    <link>https://homepages.laas.fr/dalzilio/tags/hippo/</link>
+    <description>Recent content in Hippo on Silvano DAL ZILIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor>
+    <webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster>
+    <copyright>Oct 2024</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homepages.laas.fr/dalzilio/tags/hippo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A formal toolchain for offline and run-time verification of robotic systems</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/ras2023hippo/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/ras2023hippo/</guid>
+      <description>Silvano Dal Zilio, Pierre-Emmanuel Hladik, Félix Ingrand, Mallet Anthony &lt;br /&gt;
+&lt;em&gt;Robotics and Autonomous Systems&lt;/em&gt; 159, jan 2023.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://homepages.laas.fr/dalzilio/publications/ras2023hippo/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hippo: A formal-model execution engine to control and verify critical real-time systems</title>
+      <link>https://homepages.laas.fr/dalzilio/publications/jss2021hippo/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author>
+      <guid>https://homepages.laas.fr/dalzilio/publications/jss2021hippo/</guid>
+      <description>Pierre-Emmanuel Hladik, Félix Ingrand, Silvano Dal Zilio, Reyyan Tekin &lt;br /&gt;
+&lt;em&gt;Journal of Systems and Software&lt;/em&gt; 181, nov 2021.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
