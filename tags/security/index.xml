@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on Silvano DAL ZILIO</title><link>https://dalzilio.github.io/tags/security/</link><description>Recent content in Security on Silvano DAL ZILIO</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor><webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster><copyright>Oct 2024</copyright><lastBuildDate>Fri, 01 Aug 2008 00:00:00 +0000</lastBuildDate><atom:link href="https://dalzilio.github.io/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>COPS</title><link>https://dalzilio.github.io/projects/cops/</link><pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/cops/</guid><description>&lt;p>Mar 2006 — Dec 2008.&lt;/p>
+&lt;p>COPS (&lt;em>Composition des politiques et des services&lt;/em> / Composition of Services and
+Policies) is an ANR funded project studying formal methods for Service Oriented
+Applications.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/cops/featured.jpg"/></item><item><title>CRISS</title><link>https://dalzilio.github.io/projects/criss/</link><pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/criss/</guid><description>&lt;p>Sep 2003 — Dec 2006.&lt;/p>
+&lt;p>CRISS, (Contrôle de Ressources et d&amp;rsquo;Interférence dans les Systèmes Synchrones)
+is a French project of ACI SÉCURITÉ INFORMATIQUE.&lt;/p>
+&lt;p>The CRISS project focuses on security issues raised by &lt;em>mobile code&lt;/em>, that
+occurs in areas as diverse as programmable networks, network games and smart
+cards. In ths project, we focus on two classes of properties that appear
+naturally in the context of mobile code: the derivation of bounds on the
+resources needed to execute code (to avoid denial of service attacks); and
+control of the flow of information, or non-interference, to avoid leakage of
+confidential data.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/criss/featured.jpg"/></item></channel></rss>

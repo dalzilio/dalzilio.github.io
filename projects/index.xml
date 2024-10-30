@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Silvano DAL ZILIO</title><link>https://dalzilio.github.io/projects/</link><description>Recent content on Silvano DAL ZILIO</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor><webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster><copyright>Oct 2024</copyright><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dalzilio.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Daedalus</title><link>https://dalzilio.github.io/projects/daedalus/</link><pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/daedalus/</guid><description>&lt;p>Oct 20218 — Oct 2021.&lt;/p>
+&lt;p>“&lt;em>In a perfect world, models would always be correct and verification
+tools would answer all our questions. In the Daedalus project, we are preparing
+for an imperfect world.&lt;/em>”&lt;/p>
+&lt;p>Daedalus (&lt;strong>Debugging Architecture Description Languages&lt;/strong> ) is a project funded
+by RTRA STAE. Its main objective is to bridge the gap between: (1) automatic
+generation of code that is &lt;em>correct by construction&lt;/em>; and (2) automatic
+verification of behavioral models.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/daedalus/featured.png"/></item><item><title>MOISE</title><link>https://dalzilio.github.io/projects/moise/</link><pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/moise/</guid><description>&lt;p>Dec 2015 — Apr 2019.&lt;/p>
+&lt;p>MOISE is a project on methods and tools for &lt;strong>model-based collaborative system
+engineering&lt;/strong> (requirement engineering, multi-view modeling and verification,
+system engineering in extended enterprise).&lt;/p>
+&lt;p>This project was supported by PIA (Projet Investissements d&amp;rsquo;Avenir) and the
+&lt;em>Embedded Systems&lt;/em> technology domain at IRT Saint-Exupéry.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/moise/featured.jpg"/></item><item><title>Synapse</title><link>https://dalzilio.github.io/projects/synapse/</link><pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/synapse/</guid><description>&lt;p>March 2016 — Dec 2019.&lt;/p>
+&lt;p>Synapse is a project developping new technologies for &lt;strong>Earth Observation space
+systems&lt;/strong> (smart programming of constellations, onboard and ground autonomous
+processing, ground infrastructures for big data processing).&lt;/p>
+&lt;p>This project is supported by PIA (Projet Investissements d&amp;rsquo;Avenir) and the
+&lt;em>Embedded Systems&lt;/em> technology domain at IRT Saint-Exupéry.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/synapse/featured.jpg"/></item><item><title>Time-accurate Virtualization</title><link>https://dalzilio.github.io/projects/scalian/</link><pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/scalian/</guid><description>&lt;p>May 2017 — Oct 2017.&lt;/p>
+&lt;p>This project is a direct collaboration with SCALIAN Eurogiciel to work on a
+middleware for &lt;em>communication protocol virtualization&lt;/em> that is faithfull with
+respect to timing constraints.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/scalian/featured.png"/></item><item><title>Ingequip</title><link>https://dalzilio.github.io/projects/ingequip/</link><pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/ingequip/</guid><description>&lt;p>Dec 2013 — Nov. 2016&lt;/p>
+&lt;p>Ingequip is a project on &lt;strong>Methods and tools for equipment engineering&lt;/strong>
+(system-hardware-software co-design, component-based development methods, formal
+verification methods).&lt;/p>
+&lt;p>This project was supported by PIA (Projet Investissements d&amp;rsquo;Avenir) and the
+&lt;em>Embedded Systems&lt;/em> technology domain at IRT Saint-Exupéry.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/ingequip/featured.jpg"/></item><item><title>BRiefcaSE</title><link>https://dalzilio.github.io/projects/briefcase/</link><pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/briefcase/</guid><description>&lt;p>Apr 2013 — Sep 2016.&lt;/p>
+&lt;p>BRiefcaSE is a basic research project that targets methods involved in the
+specification, validation and verification of safety critical systems.&lt;/p>
+&lt;p>This project was part of the &lt;strong>IFSE&lt;/strong> working group, an animation and reflexion
+group, financed by the RTRA STAE, concerned with formal methods for system
+engineering.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/briefcase/featured.jpg"/></item><item><title>OpenETCS</title><link>https://dalzilio.github.io/projects/openetcs/</link><pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/openetcs/</guid><description>&lt;p>Apr 2012 — Dec 2015.&lt;/p>
+&lt;p>The purpose of the openETCS project is to follow an &lt;em>open approach&lt;/em> (Open Proofs
+and Open Source) for developping an integrated modeling, validation and testing
+framework for the ETCS, the &lt;em>European Train Control System&lt;/em>.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/openetcs/featured.jpg"/></item><item><title>ITEmIS</title><link>https://dalzilio.github.io/projects/itemis/</link><pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/itemis/</guid><description>&lt;p>Oct 2008 — Dec 2011.&lt;/p>
+&lt;p>ITEmIS (&lt;em>Integrated Embedded Systems and Information Systems&lt;/em>) is a project
+funded by ANR. The goal of the project is to define an abstract reference system
+architecture, a methodology, and a set of algorithms (transformed into tools,
+mechanisms, protocols and correctness verification algorithms) for realizing
+large systems of systems, integrating multiple levels, from information systems
+to mobile, embedded systems.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/itemis/featured.png"/></item><item><title>Quarteft</title><link>https://dalzilio.github.io/projects/quarteft/</link><pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/quarteft/</guid><description>&lt;p>Apr 2009 — Nov 2012.&lt;/p>
+&lt;p>Quarteft (&lt;em>QUAlifiable Real TimE Fiacre Transformations&lt;/em>) is a project funded by
+FNRAE, the Fondation de la Recherche pour
+l&amp;rsquo;Aéronautique et l&amp;rsquo;Espace. The goal of the project is to study formal
+specification language and qualifiable model transformations in the context of
+critical embedded systems.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/quarteft/featured.jpg"/></item><item><title>CESAR</title><link>https://dalzilio.github.io/projects/cesar/</link><pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/cesar/</guid><description>&lt;p>Mar 2009 — Jun 2012.&lt;/p>
+&lt;p>CESAR stands for &lt;em>Cost-efficient methods and processes for safety relevant
+embedded systems&lt;/em>; it is a European funded project from ARTEMIS JOINT
+UNDERTAKING (JU).&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/cesar/featured.jpg"/></item><item><title>Spices</title><link>https://dalzilio.github.io/projects/spices/</link><pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/spices/</guid><description>&lt;p>Sep 2006 — Nov 2009.&lt;/p>
+&lt;p>SPICES is a EUREKA-ITEA project on &lt;em>Support for Predictable Integration of
+mission Critical Embedded Systems&lt;/em>.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/spices/featured.png"/></item><item><title>Topcased</title><link>https://dalzilio.github.io/projects/topcased/</link><pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/topcased/</guid><description>&lt;p>Sep 2006 — Nov 2009.&lt;/p>
+&lt;p>Topcased, &lt;em>Toolkit in OPen-source for Critical Application SystEms Development&lt;/em>,
+is a project funded by Aerospace Valley. The goal of the project is to build an
+open source CASE environment for critical applications and systems development.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/topcased/featured.png"/></item><item><title>COPS</title><link>https://dalzilio.github.io/projects/cops/</link><pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/cops/</guid><description>&lt;p>Mar 2006 — Dec 2008.&lt;/p>
+&lt;p>COPS (&lt;em>Composition des politiques et des services&lt;/em> / Composition of Services and
+Policies) is an ANR funded project studying formal methods for Service Oriented
+Applications.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/cops/featured.jpg"/></item><item><title>TraLaLa</title><link>https://dalzilio.github.io/projects/tralala/</link><pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/tralala/</guid><description>&lt;p>Nov 2004 — Feb 2008.&lt;/p>
+&lt;p>TraLaLA, XML Transformation Languages: logic and applications, is a project
+funded by ACI MASSES DE DONNÉES.&lt;/p>
+&lt;p>The objectives of the project is to study the processing, querying and
+manipulation of &lt;em>data-masses&lt;/em> (large amounts of data) available in XML format.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/tralala/featured.jpg"/></item><item><title>CRISS</title><link>https://dalzilio.github.io/projects/criss/</link><pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/criss/</guid><description>&lt;p>Sep 2003 — Dec 2006.&lt;/p>
+&lt;p>CRISS, (Contrôle de Ressources et d&amp;rsquo;Interférence dans les Systèmes Synchrones)
+is a French project of ACI SÉCURITÉ INFORMATIQUE.&lt;/p>
+&lt;p>The CRISS project focuses on security issues raised by &lt;em>mobile code&lt;/em>, that
+occurs in areas as diverse as programmable networks, network games and smart
+cards. In ths project, we focus on two classes of properties that appear
+naturally in the context of mobile code: the derivation of bounds on the
+resources needed to execute code (to avoid denial of service attacks); and
+control of the flow of information, or non-interference, to avoid leakage of
+confidential data.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/criss/featured.jpg"/></item></channel></rss>

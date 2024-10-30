@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent on Silvano DAL ZILIO</title><link>https://dalzilio.github.io/tags/recent/</link><description>Recent content in Recent on Silvano DAL ZILIO</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor><webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster><copyright>Oct 2024</copyright><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dalzilio.github.io/tags/recent/index.xml" rel="self" type="application/rss+xml"/><item><title>Daedalus</title><link>https://dalzilio.github.io/projects/daedalus/</link><pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/daedalus/</guid><description>&lt;p>Oct 20218 — Oct 2021.&lt;/p>
+&lt;p>“&lt;em>In a perfect world, models would always be correct and verification
+tools would answer all our questions. In the Daedalus project, we are preparing
+for an imperfect world.&lt;/em>”&lt;/p>
+&lt;p>Daedalus (&lt;strong>Debugging Architecture Description Languages&lt;/strong> ) is a project funded
+by RTRA STAE. Its main objective is to bridge the gap between: (1) automatic
+generation of code that is &lt;em>correct by construction&lt;/em>; and (2) automatic
+verification of behavioral models.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/daedalus/featured.png"/></item><item><title>MOISE</title><link>https://dalzilio.github.io/projects/moise/</link><pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/moise/</guid><description>&lt;p>Dec 2015 — Apr 2019.&lt;/p>
+&lt;p>MOISE is a project on methods and tools for &lt;strong>model-based collaborative system
+engineering&lt;/strong> (requirement engineering, multi-view modeling and verification,
+system engineering in extended enterprise).&lt;/p>
+&lt;p>This project was supported by PIA (Projet Investissements d&amp;rsquo;Avenir) and the
+&lt;em>Embedded Systems&lt;/em> technology domain at IRT Saint-Exupéry.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/moise/featured.jpg"/></item><item><title>Synapse</title><link>https://dalzilio.github.io/projects/synapse/</link><pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/projects/synapse/</guid><description>&lt;p>March 2016 — Dec 2019.&lt;/p>
+&lt;p>Synapse is a project developping new technologies for &lt;strong>Earth Observation space
+systems&lt;/strong> (smart programming of constellations, onboard and ground autonomous
+processing, ground infrastructures for big data processing).&lt;/p>
+&lt;p>This project is supported by PIA (Projet Investissements d&amp;rsquo;Avenir) and the
+&lt;em>Embedded Systems&lt;/em> technology domain at IRT Saint-Exupéry.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dalzilio.github.io/projects/synapse/featured.jpg"/></item></channel></rss>

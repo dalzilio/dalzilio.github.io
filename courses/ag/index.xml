@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Automates et Théorie des Langages (cours 2SN - BML - ENSEEIHT) on Silvano DAL ZILIO</title><link>https://dalzilio.github.io/courses/ag/</link><description>Recent content in Automates et Théorie des Langages (cours 2SN - BML - ENSEEIHT) on Silvano DAL ZILIO</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor><webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster><copyright>Oct 2024</copyright><lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dalzilio.github.io/courses/ag/index.xml" rel="self" type="application/rss+xml"/><item><title>Automates finis, composition d’automates, et modélisation</title><link>https://dalzilio.github.io/courses/ag/cm1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/ag/cm1/</guid><description>&lt;h2 class="relative group">Documents
+&lt;div id="documents" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#documents" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="../files/1-automata.pdf">Automates (handouts)   &lt;i class="far fa-file-pdf">&lt;/i>&lt;/a>&lt;/p></description></item><item><title>Regular Expressions and Closure Properties</title><link>https://dalzilio.github.io/courses/ag/cm2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/ag/cm2/</guid><description>&lt;h2 class="relative group">Documents
+&lt;div id="documents" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#documents" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="../files/2-re.pdf">Expression régulières (handouts)   &lt;i class="far fa-file-pdf">&lt;/i>&lt;/a>&lt;/p></description></item><item><title>Grammaires et langages algébriques</title><link>https://dalzilio.github.io/courses/ag/cm3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/ag/cm3/</guid><description>&lt;h2 class="relative group">Documents
+&lt;div id="documents" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#documents" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="../files/3-cfg.pdf">Grammaires et Langages Algébriques (handouts)   &lt;i class="far fa-file-pdf">&lt;/i>&lt;/a>&lt;/p></description></item><item><title>Ressources</title><link>https://dalzilio.github.io/courses/ag/ressources/</link><pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/ag/ressources/</guid><description>&lt;h2 class="relative group">Moodle
+&lt;div id="moodle" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#moodle" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Access to the &lt;a href="http://moodle-n7.inp-toulouse.fr/enrol/index.php?id=1538" target="_blank">course&amp;rsquo;s Moodle at
+Enseeiht&lt;/a>, for those
+with the right registration.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Model-Checking on Silvano DAL ZILIO</title><link>https://dalzilio.github.io/series/model-checking/</link><description>Recent content in Model-Checking on Silvano DAL ZILIO</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</managingEditor><webMaster>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</webMaster><copyright>Oct 2024</copyright><atom:link href="https://dalzilio.github.io/series/model-checking/index.xml" rel="self" type="application/rss+xml"/><item><title>TP1: Modeling with Automata</title><link>https://dalzilio.github.io/courses/mccourse/tp1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/mccourse/tp1/</guid><description>&lt;h2 class="relative group">Exercise 1. Modeling
+&lt;div id="exercise-1--modeling" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exercise-1--modeling" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Model the operations in a swimming pool using an automaton&lt;/p></description></item><item><title>TP2: modeling with P/T nets</title><link>https://dalzilio.github.io/courses/mccourse/tp2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/mccourse/tp2/</guid><description>&lt;p>For the rest of the course we will be using the tool Tina to edit and analyze
+Petri nets, see &lt;a href="http://projects.laas.fr/tina/" target="_blank">http://projects.laas.fr/tina/&lt;/a>.&lt;/p></description></item><item><title>TP3: Modelling (Resource Allocation)</title><link>https://dalzilio.github.io/courses/mccourse/tp3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/mccourse/tp3/</guid><description>&lt;h2 class="relative group">Background
+&lt;div id="background" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#background" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Petri nets transitions provide a direct way to encode communication between
+processes by synchronous communication. The following example shows two
+“processes” (P and Q) that can make an internal computation then synchronize
+with each other before continuing.&lt;/p></description></item><item><title>TP4: Token Ring</title><link>https://dalzilio.github.io/courses/mccourse/tp4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/mccourse/tp4/</guid><description>&lt;hr>
+&lt;h2 class="relative group">Exercise 1. Token ring
+&lt;div id="exercise-1--token-ring" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exercise-1--token-ring" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The goal is to model a token-ring network with K sites, where K is a parameter
+of the problem. A token ring is a specific networking configuration in which you
+have K processors, or site, arranged in a cycle (the topology is a ring; each
+processor is only linked to its unique successor and predecessor). We use a
+“token” to solve a mutual exclusion problem. Only the processor with the token
+can send a message in the network. The other processor can still compute but
+cannot communicate.&lt;/p></description></item><item><title>TP5: Linear Temporal Logic</title><link>https://dalzilio.github.io/courses/mccourse/tp5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>dalzilio [at] laas [dot] fr (Silvano DAL ZILIO)</author><guid>https://dalzilio.github.io/courses/mccourse/tp5/</guid><description>&lt;hr>
+&lt;h2 class="relative group">Exercise 1. LTL semantics on a given trace
+&lt;div id="exercise-1-ltl-semantics-on-a-given-trace" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#exercise-1-ltl-semantics-on-a-given-trace" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The diagram below describe a maximal execution (an infinite trace) that “loops”
+after the fifth state. The set of state properties of the first 5 states are,
+respectively, {q},{q},{q},{p} and ∅.&lt;/p></description></item></channel></rss>
