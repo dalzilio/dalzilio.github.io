@@ -13,7 +13,11 @@ transformings models of High-Level Petri nets, given in PNML, into equivalent
 Place/Transition nets, not the competition!---has been accepted at Petri Nets
 2020. You can find more about it here:
 
-{{< article link="/dalzilio/publication/petri2020mcc" >}}
+---
+
+{{< article link="/publications/petri2020mcc/" >}}
+
+---
 
 Like many conferences this year, Petri Nets happened as a virtual event, with
 prerecorded videos of the talks, including a short (3 minutes) *teaser video* to
@@ -22,6 +26,8 @@ for the conference, including a *tool demonstration video*.
 
 The videos for MCC won several awards this year, so I strongly suggest that you
 go and watch them ;-)
+
+---
 
 * [teaser video](https://youtu.be/i8x-rledaKE) won 🏆 the *best teaser video award*
 {{< youtubeLite id="i8x-rledaKE" label="MCC teaser video" >}}

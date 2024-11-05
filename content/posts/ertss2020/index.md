@@ -21,4 +21,6 @@ design of a formally proven mechanism, much like some kind of bytecode verifier,
 which ensures the safety of generated plans. You can find more by looking
 directly at the paper:
 
-{{< article link="/dalzilio/publications/aadltina/" >}}
+## Reference
+
+{{< article link="/publications/ertss2020satellite/" >}}

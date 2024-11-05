@@ -2066,7 +2066,7 @@
         continuous behavior.</p>
     </abstract>
     <copyright organization="LAAS" />
-    <tags>Verification, Time Petri nets, Tina</tags>
+    <tags>Verification, Time Petri nets, tina</tags>
     <project>openetcs</project>
   </techreport>
 
@@ -2106,7 +2106,7 @@
     <copyright organization="Springer" />
     <referto key="fickleRR">An extended version of this paper appears as
       Research Report LAAS N°14148, May 2014.</referto>
-    <tags>Verification, Time Petri nets, Tina</tags>
+    <tags>Verification, Time Petri nets, tina</tags>
     <project>openetcs</project>
   </inproceedings>
 
@@ -2175,7 +2175,7 @@
         Tina, a model-checking toolbox for Time Petri Net.</p>
     </abstract>
     <copyright organization="Springer" />
-    <tags>Verification, Time Petri nets, Tina, Patterns</tags>
+    <tags>Verification, Time Petri nets, tina, Patterns</tags>
     <project>briefcase</project>
   </inproceedings>
 
@@ -2207,7 +2207,7 @@
         model the buffering of video information and the use of an unbounded number of frame
         identifiers.</p>
     </abstract>
-    <tags>Verification, Use Case, Tina, Fiacre</tags>
+    <tags>Verification, Use Case, tina, fiacre</tags>
     <project>briefcase</project>
   </inproceedings>
 
@@ -2272,7 +2272,7 @@
     <copyright organization="ACM" />
     <referto key="scp2016symmetries">An extended version appears in
       Science of Computer Programming 132(2):209-225, Aug 2016.</referto>
-    <tags>Verification, Time Petri nets, Tina</tags>
+    <tags>Verification, Time Petri nets, tina</tags>
   </inproceedings>
 
   <article key="scp2016symmetries">
@@ -2300,7 +2300,7 @@
         Petri net preserving its markings and traces. The approach has been implemented and
         experiments are reported.</p>
     </abstract>
-    <tags>Verification, Time Petri nets, Tina</tags>
+    <tags>Verification, Time Petri nets, tina</tags>
     <!-- <referby key="sac2015symmetry" /> -->
   </article>
 
@@ -2610,7 +2610,7 @@
     <referto key="sttt2019counting">A longer version appears in the
       International Journal on Software Tools for Technology Transfer (STTT),
       April 2019.</referto>
-    <tags>Verification, Petri, Tina, Reductions</tags>
+    <tags>Verification, Petri, tina, Reductions</tags>
   </inproceedings>
 
   <inproceedings key="ertss2018fdir">
@@ -2738,7 +2738,7 @@
         formally expressed and verified. We give examples on how we can check other important
         behavioral and timed properties on the same synthesized models.</p>
     </abstract>
-    <tags>Verification, Tina, Robotics</tags>
+    <tags>Verification, tina, Robotics</tags>
   </inproceedings>
 
   <!-- ************************************************************************************** -->
@@ -2871,7 +2871,7 @@
         are attributed to the three best tools. CPU usage and memory consumption are reported, which
         is also valuable information for tool developers.</p>
     </abstract>
-    <tags>Verification, Petri, Tina</tags>
+    <tags>Verification, Petri, Contest, tina</tags>
   </inproceedings>
 
   <article key="sttt2019counting">
@@ -2895,7 +2895,7 @@
         history. The method has been implemented, and computing experiments show that reductions are
         effective on a large benchmark of models.</p>
     </abstract>
-    <tags>Verification, Reductions, Petri, Tina</tags>
+    <tags>Verification, Reductions, Petri, tina</tags>
   </article>
 
   <inproceedings key="formats2019twina">
@@ -2941,7 +2941,7 @@
         twin-plant diagnosability methods for TPN; then as a way to check timed properties without
         interfering with a system.</p>
     </abstract>
-    <tags>Verification, Tools, Time Petri nets, Twina, Diagnosability</tags>
+    <tags>Verification, Tools, Time Petri nets, twina, Diagnosability</tags>
   </inproceedings>
 
   <inproceedings key="movep2020twina">
@@ -3211,7 +3211,7 @@
         during the 2020 edition of the Model Checking Contest. Our experiments show that the
         approach works well, even when a moderate amount of reductions applies.</p>
     </abstract>
-    <tags>Verification, Petri, Reductions, Tools, Kong</tags>
+    <tags>Verification, Petri, Reductions, Tools, kong</tags>
   </inproceedings>
 
   <article key="ijsttt2023poly">
@@ -3244,7 +3244,7 @@
         edition of the Model Checking Contest. Our experiments show that the approach works well,
         even when a moderate amount of reductions applies.</p>
     </abstract>
-    <tags>Verification, Petri, Reductions, Tools, Kong</tags>
+    <tags>Verification, Petri, Reductions, Tools, kong</tags>
   </article>
 
   <inproceedings key="petri2021smpt">
@@ -3359,7 +3359,7 @@
         problem, we propose a new toolchain, called Hippo, that integrates tools for design,
         verification and execution built around a common formalism.</p>
     </abstract>
-    <tags>Verification, Tools, Robotics, Hippo</tags>
+    <tags>Verification, Tools, Robotics, hippo</tags>
   </article>
 
   <inproceedings key="tacas2022pdr">
@@ -3515,7 +3515,7 @@
         connection with a class of Petri nets that have Presburger-definable reachability sets. We
         have implemented our procedure, and we illustrate its use on several examples.</p>
     </abstract>
-    <tags>Verification, Petri, Tools, Reductron, Reductions</tags>
+    <tags>Verification, Petri, Tools, reductron, Reductions</tags>
   </inproceedings>
 
   <article key="fi2023polyprove">
@@ -3629,7 +3629,7 @@
         This artifact contains several solutions to various subchallenges, and instructions and
         scripts to reproduce these results smoothly.</p>
     </abstract>
-    <tags>Verification, Time Petri nets, Use Case, Tina, Fiacre</tags>
+    <tags>Verification, Time Petri nets, Use Case, tina, fiacre</tags>
   </article>
 
   <inproceedings key="ecrts2023waters">
@@ -3723,7 +3723,7 @@
         none of these solutions provided a full answer to the challenge, a combination of several of
         them did allow to draw some conclusions. </p>
     </abstract>
-    <tags>Verification, Time Petri nets, Use Case, Fiacre, Tina</tags>
+    <tags>Verification, Time Petri nets, Use Case, fiacre, tina</tags>
   </inproceedings>
 
   <article key="ras2023hippo">
@@ -3803,7 +3803,7 @@
         show that our approach works well in practice and that it can be useful even when there is
         only a limited amount of reductions.</p>
     </abstract>
-    <tags>Verification, Petri, Tools, Reductions, Octant</tags>
+    <tags>Verification, Petri, Tools, Reductions, octant</tags>
   </inproceedings>
 
 
@@ -3885,7 +3885,7 @@
         using the wide variety of data we collect each year, and report on the impact the MCC had on
         the competing tools.</p>
     </abstract>
-    <tags>Verification, Petri, Contest</tags>
+    <tags>Verification, Petri, Contest, tina</tags>
   </inproceedings>
 
 

@@ -47,10 +47,10 @@ layout = "profile" # valid options: page, profile, hero, card, background, custo
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
-showMoreLinkDest = "/dalzilio/publications/"
+showMoreLinkDest = "/publications/"
 cardView = true
 cardViewScreenWidth = true
-layoutBackgroundBlur = false                 # only used when layout equals background
+layoutBackgroundBlur = false        # only used when layout equals background
 
 [article]
 showDate = true

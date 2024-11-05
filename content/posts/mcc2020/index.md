@@ -17,8 +17,10 @@ row that TINA came first in the "state space" category.
 You can find more about how we managed to obtain this result by looking at the
 following publications:
 
-{{< article link="/dalzilio/publication/toolympics2019" >}}
+## References
 
-{{< article link="/dalzilio/publication/spin2018counting" >}}
+* {{< article link="/publications/toolympics2019/" >}}
 
-{{< article link="/dalzilio/publication/sttt2019counting" >}}
+* {{< article link="/publications/spin2018counting/" >}}
+
+* {{< article link="/publications/sttt2019counting/" >}}
