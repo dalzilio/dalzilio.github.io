@@ -49,6 +49,7 @@ MCC is a tool designed for a very specific task: to transform the models of High
    series    = {Lecture Notes in Computer Science},
    volume    = {12152},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-030-51831-8_23},
    pages     = {426--435},
    month     = jun, 
    year      = 2020

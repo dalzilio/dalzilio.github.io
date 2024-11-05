@@ -26,13 +26,23 @@ foundations and practices_), where I most particularly develop new verification
 methods and tools for checking properties of critical systems having strong
 temporal and timing requirements.
 
-## Interests
+## Research Interests
 
-- Formal Methods
-- Model-Checking
-- Safety Critical Embedded Systems
-- Time Petri nets
-- Process Calculi
+- Formal Methods and their [applications](/tags/use-case) (e.g. for
+  [security](/tags/security), [robotics](/tags/robotics),
+  [diagnosability](/tags/diagnosability), ...)
+
+- Model-Checking and [Formal Verification](/tags/verification), as well as the
+  implementation of related [software tools](/tags/tools)
+
+- [Petri nets](/tags/petri) and their [timed extensions](/tags/time-petri-nets)
+
+- [Safety Critical Embedded Systems](/tags/safety), and [Architectural
+  languages](/tags/architecture-languages) for their use in [Model-Based System
+  Engineering](/tags/system-engineering)
+
+- Process Calculi and [Concurrency Semantics](/tags/concurrency) ([pi
+  calculus](/tags/pi-calculus), [mobile ambients](/tags/mobile-ambients), ...)
 
 </div>
 

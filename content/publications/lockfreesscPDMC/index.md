@@ -51,6 +51,7 @@ Bloom filters have already been applied for the probabilistic verification of sy
    title     = {{A General Lock-Free Algorithm for Parallel State Space Construction}},
    booktitle = {PDMC 2010 -- 9th International Workshop on Parallel and Distributed Methods in verifiCation},
    publisher = {IEEE Computer Society},
+   doi = {10.1109/PDMC-HiBi.2010.10},
    month     = oct, 
    year      = 2010
 }

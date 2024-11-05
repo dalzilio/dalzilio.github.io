@@ -52,6 +52,7 @@ We believe that having a consistent workflow, from an initial specification of o
    title   = {{A formal toolchain for offline and run-time verification of robotic systems}},
    journal = {Robotics and Autonomous Systems},
     volume  = {159},
+   doi = {10.1016/j.robot.2022.104301},
    month   = jan, 
    year    = 2023
 }

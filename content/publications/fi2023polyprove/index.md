@@ -52,6 +52,7 @@ We propose an automated procedure to prove polyhedral abstractions (also known a
    journal = {Fundamenta Informaticae},
    number  = {3-4},
    volume  = {192},
+   doi = {10.3233/FI-242197},
    month   = sep, 
    year    = 2024
 }

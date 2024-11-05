@@ -7,7 +7,7 @@ Silvano Dal Zilio <br />
 In _JFLA'99_ — _10ème Journées Francophones des Langages Applicatifs_, feb 1999.
 """
 projects = [""]
-tags = ["Semantics", "Objects", ]
+tags = ["Semantics", "Objects", "Pi calculus", ]
 
 +++
 Silvano Dal Zilio <br />

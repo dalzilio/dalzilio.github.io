@@ -7,7 +7,7 @@ Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan <br />
 _International Journal on Software Tools for Technology Transfer_ 25, dec 2023.
 """
 projects = [""]
-tags = ["Verification", "Petri", "Reductions", "Tools", "Kong", ]
+tags = ["Verification", "Petri", "Reductions", "Tools", "kong", ]
 doi = "10.1007/s10009-022-00694-8"
 +++
 Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan <br />
@@ -51,6 +51,7 @@ We propose a new method that takes advantage of structural reductions to acceler
    title   = {{Leveraging polyhedral reductions for solving Petri net reachability problems}},
    journal = {International Journal on Software Tools for Technology Transfer},
     volume  = {25},
+   doi = {10.1007/s10009-022-00694-8},
    month   = dec, 
    year    = 2023
 }

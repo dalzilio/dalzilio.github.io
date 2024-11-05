@@ -36,6 +36,7 @@ We propose a method to decide the diagnosability of patterns in labeled Time Pet
    title     = {{A New Product Construction for the Diagnosability of Patterns in Time Petri Net}},
    booktitle = {CDC 2020 -- 59th IEEE Conference on Decision and Control},
    publisher = {IEEE Computer Society},
+   doi = {10.1109/CDC42340.2020.9303826},
    month     = dec, 
    year      = 2020
 }

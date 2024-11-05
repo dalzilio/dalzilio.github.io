@@ -49,6 +49,7 @@ An issue limiting the adoption of model checking technologies by the industry is
    series    = {Lecture Notes in Computer Science},
    volume    = {7437},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-642-32469-7_1},
    pages     = {1--15},
    month     = sep, 
    year      = 2012

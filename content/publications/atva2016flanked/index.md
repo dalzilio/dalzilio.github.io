@@ -43,6 +43,7 @@ We define a new subclass of nondeterministic finite automata for prefix-closed l
    series    = {Lecture Notes in Computer Science},
    volume    = {9938},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-319-46520-3_7},
    pages     = {106--121},
    month     = oct, 
    year      = 2016

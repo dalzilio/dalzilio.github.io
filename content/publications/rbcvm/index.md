@@ -55,6 +55,7 @@ Our approach extends a system of static analyses based on the notion of
    series    = {Lecture Notes in Computer Science},
    volume    = {3780},
    publisher = {Springer-Verlag},
+   doi = {10.1007/11575467_17},
    pages     = {247--263},
    month     = nov, 
    year      = 2005

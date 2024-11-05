@@ -7,7 +7,7 @@ Silvano Dal Zilio, Bernard Berthomieu, Didier Le Botlan <br />
 In _WATERS 2015_ — _6th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems (FMTV verification challenge)_, jul 2015.
 """
 projects = ["briefcase"]
-tags = ["Verification", "Use Case", "Tina", "Fiacre", ]
+tags = ["Verification", "Use Case", "tina", "fiacre", ]
 
 +++
 Silvano Dal Zilio, Bernard Berthomieu, Didier Le Botlan <br />

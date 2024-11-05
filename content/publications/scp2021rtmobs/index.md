@@ -43,6 +43,7 @@ We define a new verification method, called RT-MOBS, for checking real-time requ
    title   = {{RT-MOBS: A compositional observer semantics of time Petri net for real-time property specification language based on μ-calculus}},
    journal = {Science of Computer Programming},
     volume  = {206},
+   doi = {10.1016/j.scico.2021.102624},
    month   = apr, 
    year    = 2021
 }

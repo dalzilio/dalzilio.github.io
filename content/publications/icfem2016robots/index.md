@@ -45,6 +45,7 @@ Software is an essential part of robotic systems. As robots and autonomous syste
    series    = {Lecture Notes in Computer Science},
    volume    = {10009},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-319-47846-3_24},
    pages     = {383--399},
    month     = nov, 
    year      = 2016

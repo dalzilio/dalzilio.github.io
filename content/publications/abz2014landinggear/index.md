@@ -47,6 +47,7 @@ We describe our experience with modeling the landing gear system of an aircraft 
    series    = {Communications in Computer and Information Science (CCS)},
    volume    = {433},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-319-07512-9_8},
    month     = jun, 
    year      = 2014
 }

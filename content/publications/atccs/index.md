@@ -61,6 +61,7 @@ We show that the addition of atomic transactions results in a very expressive ca
    series    = {Lecture Notes in Computer Science},
    volume    = {4421},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-540-71316-6_5},
    pages     = {48--63},
    month     = mar, 
    year      = 2007

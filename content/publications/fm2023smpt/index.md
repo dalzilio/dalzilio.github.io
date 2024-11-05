@@ -38,6 +38,7 @@ SMPT (for Satisfiability Modulo Petri Net) is a model checker for reachability p
    series    = {Lecture Notes in Computer Science},
    volume    = {14000},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-031-27481-7_25},
    pages     = {445--453},
    month     = mar, 
    year      = 2023

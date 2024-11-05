@@ -7,7 +7,7 @@ Bernard Berthomieu, Didier Le Botlan, Silvano Dal Zilio <br />
 In _SPIN 2018_ — _International Symposium on Model Checking Software_, jun 2018.
 """
 projects = [""]
-tags = ["Verification", "Petri", "Tina", "Reductions", ]
+tags = ["Verification", "Petri", "tina", "Reductions", ]
 doi = "10.1007/978-3-319-94111-0_4"
 +++
 Bernard Berthomieu, Didier Le Botlan, Silvano Dal Zilio <br />
@@ -48,6 +48,7 @@ We propose a method to count the number of reachable markings of a Petri net wit
    series    = {Lecture Notes in Computer Science},
    volume    = {10869},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-319-94111-0_4},
    pages     = {65--84},
    month     = jun, 
    year      = 2018

@@ -42,6 +42,7 @@ _International Journal of Critical Computer-Based Systems (IJCCBS)_ 5(1/2):4—3
    journal = {International Journal of Critical Computer-Based Systems (IJCCBS)},
    number  = {1/2},
    volume  = {5},
+   doi = {10.1504/IJCCBS.2014.059593},
    pages   = {4--30},
    month   = mar, 
    year    = 2014

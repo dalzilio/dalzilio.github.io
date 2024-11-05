@@ -7,7 +7,7 @@ Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan <br />
 In _VMCAI 2024_ — _Verification, Model Checking, and Abstract Interpretation_, jan 2024.
 """
 projects = [""]
-tags = ["Verification", "Petri", "Tools", "Reductions", "Octant", ]
+tags = ["Verification", "Petri", "Tools", "Reductions", "octant", ]
 doi = "10.1007/978-3-031-50524-9_5"
 +++
 Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan <br />
@@ -43,6 +43,7 @@ We propose a method for checking generalized reachability properties in Petri ne
    series    = {Lecture Notes in Computer Science},
    volume    = {14499},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-031-50524-9_5},
    month     = jan, 
    year      = 2024
 }

@@ -7,7 +7,7 @@ Sebastian Altmeyer, Étienne André, Silvano Dal Zilio, Loïc Fejoz, Michael Gon
 In _ECRTS 2023_ — _35th Euromicro Conference on Real-Time Systems_, jul 2023.
 """
 projects = [""]
-tags = ["Verification", "Time Petri nets", "Use Case", "Fiacre", "Tina", ]
+tags = ["Verification", "Time Petri nets", "Use Case", "fiacre", "tina", ]
 doi = "10.4230/LIPIcs.ECRTS.2023.19"
 +++
 Sebastian Altmeyer, Étienne André, Silvano Dal Zilio, Loïc Fejoz, Michael González Harbour, Susanne Graf, J. Javier Gutiérrez, Rafik Henia, Didier Le Botlan, Giuseppe Lipari, Julio Medina, Nicolas Navet, Sophie Quinton, Juan Rivas, Youcheng Sun <br />
@@ -57,6 +57,7 @@ We present here the main features and lessons learned from the first edition of 
    series    = {Leibniz International Proceedings in Informatics (LIPIcs)},
    volume    = {262},
    publisher = {Schloss Dagstuhl},
+   doi = {10.4230/LIPIcs.ECRTS.2023.19},
    month     = jul, 
    year      = 2023
 }

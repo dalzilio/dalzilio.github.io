@@ -46,6 +46,7 @@ We show that the typed region calculus of Tofte and Talpin can be encoded in a t
    journal = {Journal of Functional Programming},
    number  = {3},
    volume  = {12},
+   doi = {10.1017/S0956796801004270},
    pages   = {229--292},
    month   = may, 
    year    = 2002

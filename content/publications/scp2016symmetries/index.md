@@ -7,7 +7,7 @@ Pierre-Alain Bourdil, Bernard Berthomieu, Silvano Dal Zilio, François Vernadat 
 _Science of Computer Programming_ 132(2):209—225, aug 2016.
 """
 projects = [""]
-tags = ["Verification", "Time Petri nets", "Tina", ]
+tags = ["Verification", "Time Petri nets", "tina", ]
 doi = "10.1016/j.scico.2016.08.008"
 +++
 Pierre-Alain Bourdil, Bernard Berthomieu, Silvano Dal Zilio, François Vernadat <br />
@@ -39,6 +39,7 @@ We propose a method to exploit the symmetries of a real-time system represented 
    journal = {Science of Computer Programming},
    number  = {2},
    volume  = {132},
+   doi = {10.1016/j.scico.2016.08.008},
    pages   = {209--225},
    month   = aug, 
    year    = 2016

@@ -54,6 +54,7 @@ We study the problems related to querying large, distributed XML documents. Our 
    series    = {Lecture Notes in Computer Science},
    volume    = {4661},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-540-75336-0_11},
    pages     = {167--182},
    month     = jan, 
    year      = 2007

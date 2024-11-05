@@ -7,7 +7,7 @@ Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan <br />
 In _Petri nets 2023_ — _44th International Conference on Application and Theory of Petri Nets and Concurrency_, jun 2023.
 """
 projects = [""]
-tags = ["Verification", "Petri", "Tools", "Reductron", "Reductions", ]
+tags = ["Verification", "Petri", "Tools", "reductron", "Reductions", ]
 doi = "10.1007/978-3-031-33620-1_18"
 +++
 Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan <br />
@@ -47,6 +47,7 @@ We propose an automated procedure to prove polyhedral abstractions for Petri net
    series    = {Lecture Notes in Computer Science},
    volume    = {13929},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-031-33620-1_18},
    pages     = {324--345},
    month     = jun, 
    year      = 2023

@@ -50,6 +50,7 @@ We evaluate the performance of our algorithm on different benchmarks and compare
    title     = {{Mixed Shared-Distributed Hash Tables Approaches for Parallel State Space Construction}},
    booktitle = {ISPDC 2011 -- 10th International Symposium on Parallel and Distributed Computing},
    publisher = {IEEE Computer Society},
+   doi = {10.1109/ISPDC.2011.12},
    month     = jul, 
    year      = 2011
 }

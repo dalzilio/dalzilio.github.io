@@ -7,7 +7,7 @@ Lukasz Fronc, Silvano Dal Zilio, Bernard Berthomieu, François Vernadat <br />
 _Research Report 14148_, LAAS, may 2014.
 """
 projects = ["openetcs"]
-tags = ["Verification", "Time Petri nets", "Tina", ]
+tags = ["Verification", "Time Petri nets", "tina", ]
 
 +++
 Lukasz Fronc, Silvano Dal Zilio, Bernard Berthomieu, François Vernadat <br />

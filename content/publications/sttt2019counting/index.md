@@ -7,7 +7,7 @@ Bernard Berthomieu, Didier Le Botlan, Silvano Dal Zilio <br />
 _International Journal on Software Tools for Technology Transfer (STTT)_ :1—19, apr 2019.
 """
 projects = [""]
-tags = ["Verification", "Reductions", "Petri", "Tina", ]
+tags = ["Verification", "Reductions", "Petri", "tina", ]
 doi = "10.1007/s10009-019-00519-1"
 +++
 Bernard Berthomieu, Didier Le Botlan, Silvano Dal Zilio <br />
@@ -36,7 +36,8 @@ We propose a method to count the number of reachable markings of a Petri net wit
    author  = {Berthomieu, Bernard and {Le Botlan}, Didier and {Dal Zilio}, Silvano},
    title   = {{Counting Petri net markings from reduction equations}},
    journal = {International Journal on Software Tools for Technology Transfer (STTT)},
-    pages   = {1--19},
+    doi = {10.1007/s10009-019-00519-1},
+   pages   = {1--19},
    month   = apr, 
    year    = 2019
 }

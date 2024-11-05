@@ -56,6 +56,7 @@ XML documents, and other forms of semi-structured data, may be roughly described
    series    = {Lecture Notes in Computer Science},
    volume    = {2706},
    publisher = {Springer-Verlag},
+   doi = {10.1007/3-540-44881-0_18},
    pages     = {246--263},
    month     = jun, 
    year      = 2003

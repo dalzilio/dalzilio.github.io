@@ -7,7 +7,7 @@ Silvano Dal Zilio, Nouha Abid, Bernard Berthomieu <br />
 _Research Report 12367_, LAAS, jul 2012.
 """
 projects = [""]
-tags = ["Verification", "Fiacre", ]
+tags = ["Verification", "Fiacre", "Safety", ]
 
 +++
 Silvano Dal Zilio, Nouha Abid, Bernard Berthomieu <br />

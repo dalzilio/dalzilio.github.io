@@ -43,6 +43,7 @@ To ease the expression of real-time requirements, Dwyer, and then Konrad, studie
    title     = {{Formal Verification of User-Level Real-Time Property Patterns}},
    booktitle = {TASE 2017 -- 11th International Symposium on Theoretical Aspects of Software Engineering},
    publisher = {IEEE Computer Society},
+   doi = {10.1109/TASE.2017.8285630},
    month     = sep, 
    year      = 2017
 }

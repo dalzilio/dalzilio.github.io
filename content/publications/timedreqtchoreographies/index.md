@@ -42,6 +42,7 @@ In this paper, we propose an approach for analyzing and validating a composition
    title     = {{Towards Timed Requirement Verification for Service Choreographies}},
    booktitle = {CollaborateCom 2012 -- 8th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing},
    publisher = {IEEE Computer Society},
+   doi = {10.4108/icst.collaboratecom.2012.250441},
    month     = oct, 
    year      = 2012
 }

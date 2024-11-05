@@ -86,7 +86,7 @@
         programming notation for higher-order concurrency.</p>
     </abstract>
     <copyright organization="INRIA" />
-    <tags>Semantics, Concurrency</tags>
+    <tags>Semantics, Concurrency, Pi calculus</tags>
   </techreport>
 
   <inproceedings key="bouncingobj">
@@ -114,7 +114,7 @@
         providing more flexibility in the definition of migration constraints.</p>
     </abstract>
     <copyright organization="BRICS" />
-    <tags>Semantics, Objects</tags>
+    <tags>Semantics, Objects, Pi calculus</tags>
   </inproceedings>
 
   <inproceedings key="blueobj">
@@ -138,7 +138,7 @@
         interpretation of Abadi and Cardelli object calculus, that preserves subtyping.</p>
     </abstract>
     <copyright organization="INRIA" />
-    <tags>Semantics, Objects</tags>
+    <tags>Semantics, Objects, Pi calculus</tags>
   </inproceedings>
 
   <techreport key="rr3664">
@@ -159,7 +159,7 @@
         shared by many processes, can be safely copied and distributed.</p>
     </abstract>
     <copyright organization="INRIA" />
-    <tags>Semantics, Concurrency</tags>
+    <tags>Semantics, Concurrency, Pi calculus</tags>
   </techreport>
 
   <phdthesis key="these">
@@ -199,7 +199,7 @@
         typed interpretation of the calculus of extensible objects that preserves subtyping.</p>
     </abstract>
     <copyright organization="INRIA" />
-    <tags>Semantics, Concurrency</tags>
+    <tags>Semantics, Concurrency, Pi calculus</tags>
   </phdthesis>
 
   <inproceedings key="interpextobj">
@@ -272,7 +272,7 @@
     <copyright organization="Springer" />
     <referto key="spacongdecRR">An extended version of this paper appears as
       Technical Report MSR-TR-2000-41, Microsoft Research, May 2000.</referto>
-    <tags>Concurrency, Mobility, Mobile Ambients</tags>
+    <tags>Concurrency, Mobile Ambients</tags>
   </inproceedings>
 
   <techreport key="spacongdecRR">
@@ -304,7 +304,7 @@
     </abstract>
     <copyright organization="Microsoft" />
     <referby key="spacongdec" />
-    <tags>Concurrency, Mobility, Mobile Ambients</tags>
+    <tags>Concurrency, Mobile Ambients</tags>
   </techreport>
 
   <inproceedings key="movep">
@@ -362,7 +362,7 @@
         self-types and synchronization primitives. We also prove some equational laws on objects.</p>
     </abstract>
     <copyright organization="Springer" />
-    <tags>Concurrency, Objects</tags>
+    <tags>Concurrency, Objects, Pi calculus</tags>
   </inproceedings>
 
   <inproceedings key="regions">
@@ -487,7 +487,7 @@
     <referto key="modelcheckambientrr">An extended version of this paper also
       appears as Technical Report MSR-TR-2001-03, Microsoft Research, May
       2001.</referto>
-    <tags>Concurrency, Mobility, Mobile Ambients</tags>
+    <tags>Concurrency, Mobile Ambients</tags>
   </inproceedings>
 
   <techreport key="modelcheckambientrr">
@@ -733,7 +733,7 @@
         for several quite simple fragments of the calculus and the logic; this suggests that there
         are no interesting fragments with polynomial-time model checking algorithms.</p>
     </abstract>
-    <tags>Concurrency, Mobility, Mobile Ambients</tags>
+    <tags>Concurrency, Mobile Ambients</tags>
     <!-- <referby key="complexity" /> -->
   </article>
 
@@ -1827,7 +1827,7 @@
         theorem prover, and can be used to debug the implementation of new observers.</p>
     </abstract>
     <copyright organization="LAAS" />
-    <tags>Verification, Fiacre</tags>
+    <tags>Verification, Fiacre, Safety</tags>
   </techreport>
 
   <inproceedings key="vecos2012verifpatterns">

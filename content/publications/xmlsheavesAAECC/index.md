@@ -43,6 +43,7 @@ XML documents may be roughly described as unranked, ordered trees and it is ther
    journal = {Applicable Algebra in Engineering, Communication and Computing},
    number  = {5},
    volume  = {17},
+   doi = {10.1007/s00200-006-0016-7},
    pages   = {337--377},
    month   = oct, 
    year    = 2006

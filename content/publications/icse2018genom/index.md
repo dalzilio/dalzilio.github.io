@@ -7,7 +7,7 @@ Mohammed Foughali, Bernard Berthomieu, Silvano Dal Zilio, Pierre-Emmanuel Hladik
 In _FormaliSE_ — _6th International Conference on Formal Methods in Software Engineering_, jun 2018.
 """
 projects = [""]
-tags = ["Verification", "Tina", "Robotics", ]
+tags = ["Verification", "tina", "Robotics", ]
 doi = "10.1145/3193992.3193996"
 +++
 Mohammed Foughali, Bernard Berthomieu, Silvano Dal Zilio, Pierre-Emmanuel Hladik, Félix Ingrand, Anthony Mallet <br />
@@ -45,6 +45,7 @@ Software constitutes a major part of the development of robotic and autonomous s
    title     = {{Formal Verification of Complex Robotic Systems on Resource-Constrained Platforms}},
    booktitle = {FormaliSE -- 6th International Conference on Formal Methods in Software Engineering},
    publisher = {ACM},
+   doi = {10.1145/3193992.3193996},
    pages     = {2--9},
    month     = jun, 
    year      = 2018

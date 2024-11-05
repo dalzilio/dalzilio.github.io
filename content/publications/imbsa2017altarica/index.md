@@ -45,6 +45,7 @@ The design of complex safety critical systems raises new technical challenges fo
    series    = {Lecture Notes in Computer Science},
    volume    = {10437},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-319-64119-5_10},
    pages     = {147--162},
    month     = sep, 
    year      = 2017

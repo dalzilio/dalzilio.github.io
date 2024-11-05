@@ -37,6 +37,7 @@ We describe a formal verification toolchain for AADL, the SAE Architecture Analy
    series    = {Lecture Notes in Computer Science},
    volume    = {5570},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-642-01924-1_15},
    pages     = {207--221},
    month     = jun, 
    year      = 2009

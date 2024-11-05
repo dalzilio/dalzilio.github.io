@@ -7,7 +7,7 @@ Lukasz Fronc, Silvano Dal Zilio, Bernard Berthomieu, François Vernadat <br />
 In _FORMATS 2014_ — _12th International Conference on Formal Modeling and Analysis of Timed Systems_, sep 2014.
 """
 projects = ["openetcs"]
-tags = ["Verification", "Time Petri nets", "Tina", ]
+tags = ["Verification", "Time Petri nets", "tina", ]
 doi = "10.1007/978-3-319-10512-3_7"
 +++
 Lukasz Fronc, Silvano Dal Zilio, Bernard Berthomieu, François Vernadat <br />
@@ -51,6 +51,7 @@ We define an extension of time Petri nets such that the time at which a transiti
    series    = {Lecture Notes in Computer Science},
    volume    = {8711},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-319-10512-3_7},
    pages     = {85--99},
    month     = sep, 
    year      = 2014

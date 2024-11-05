@@ -61,6 +61,7 @@ We show that the typed region calculus of Tofte and Talpin can be encoded in a t
    series    = {Lecture Notes in Computer Science},
    volume    = {1893},
    publisher = {Springer-Verlag},
+   doi = {10.1007/3-540-44612-5_1},
    pages     = {1--20},
    month     = aug, 
    year      = 2000

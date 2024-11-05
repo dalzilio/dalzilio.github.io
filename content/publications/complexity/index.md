@@ -7,7 +7,7 @@ Witold Charatonik, Silvano Dal Zilio, Andrew D. Gordon, Supratik Mukhopadhyay, J
 In _FoSSaCS 2001_ — _4th International Conference on Foundations of Software Science and Computation Structures_, apr 2001.
 """
 projects = [""]
-tags = ["Concurrency", "Mobility", "Mobile Ambients", ]
+tags = ["Concurrency", "Mobile Ambients", ]
 doi = "10.1007/3-540-45315-6_10"
 +++
 Witold Charatonik, Silvano Dal Zilio, Andrew D. Gordon, Supratik Mukhopadhyay, Jean-Marc Talbot <br />
@@ -55,6 +55,7 @@ We settle the complexity bounds of the model checking problem for the replicatio
    series    = {Lecture Notes in Computer Science},
    volume    = {2030},
    publisher = {Springer-Verlag},
+   doi = {10.1007/3-540-45315-6_10},
    pages     = {152--167},
    month     = apr, 
    year      = 2001

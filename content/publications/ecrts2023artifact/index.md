@@ -7,7 +7,7 @@ Sebastian Altmeyer, Étienne André, Silvano Dal Zilio, Loïc Fejoz, Michael Gon
 _Dagstuhl Artifacts Series (DARTS)_ 9(1), jul 2023.
 """
 projects = [""]
-tags = ["Verification", "Time Petri nets", "Use Case", "Tina", "Fiacre", ]
+tags = ["Verification", "Time Petri nets", "Use Case", "tina", "fiacre", ]
 doi = "10.4230/DARTS.9.1.4"
 +++
 Sebastian Altmeyer, Étienne André, Silvano Dal Zilio, Loïc Fejoz, Michael González Harbour, Susanne Graf, J. Javier Gutiérrez, Rafik Henia, Didier Le Botlan, Giuseppe Lipari, Julio Medina, Nicolas Navet, Sophie Quinton, Juan Rivas, Youcheng Sun <br />
@@ -44,6 +44,7 @@ _Dagstuhl Artifacts Series (DARTS)_ 9(1), jul 2023.
    journal = {Dagstuhl Artifacts Series (DARTS)},
    number  = {1},
    volume  = {9},
+   doi = {10.4230/DARTS.9.1.4},
    month   = jul, 
    year    = 2023
 }

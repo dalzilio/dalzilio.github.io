@@ -54,6 +54,7 @@ We define a new method for taking advantage of net reductions in combination wit
    journal = {Fundamenta Informaticae},
    number  = {2-4},
    volume  = {187},
+   doi = {10.3233/FI-222134},
    month   = oct, 
    year    = 2022
 }

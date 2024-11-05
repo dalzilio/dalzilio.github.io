@@ -39,6 +39,7 @@ This paper details works undertaken in the scope of the Spices project concernin
    author    = {Berthomieu, Bernard and Bodeveix, Jean-Paul and {Dal Zilio}, Silvano and Dissaux, Pierre and Filali, Mamoun and Heim, Sébastien and Gaufillet, Pierre and Vernadat, François},
    title     = {{Formal Verification of AADL models with Fiacre and Tina}},
    booktitle = {ERTSS 2010 -- 5th International Congress and Exhibition on Embedded Real-Time Software and Systems},
+   doi = {10.5281/zenodo.32930},
    month     = may, 
    year      = 2010
 }

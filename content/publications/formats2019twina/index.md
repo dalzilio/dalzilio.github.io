@@ -7,7 +7,7 @@ summary = """
 In _FORMATS 2019_ — _17th International Conference on Formal Modeling and Analysis of Timed Systems_, aug 2019.
 """
 projects = [""]
-tags = ["Verification", "Tools", "Time Petri nets", "Twina", "Diagnosability", ]
+tags = ["Verification", "Tools", "Time Petri nets", "twina", "Diagnosability", ]
 doi = "10.1007/978-3-030-29662-9_5"
 +++
 Éric Lubat, Silvano Dal Zilio, Didier Le Botlan, Yannick Pencolé, Audine Subias <br />
@@ -44,6 +44,7 @@ We propose a new method for computing the language intersection of two Time Petr
    series    = {Lecture Notes in Computer Science},
    volume    = {11750},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-030-29662-9_5},
    pages     = {79--95},
    month     = aug, 
    year      = 2019

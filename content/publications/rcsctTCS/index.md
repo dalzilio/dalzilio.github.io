@@ -52,6 +52,7 @@ As a second contribution, we introduce a virtual machine and a related bytecode 
    journal = {Theoretical Computer Science},
    number  = {2-3},
    volume  = {358},
+   doi = {10.1016/j.tcs.2006.01.017},
    pages   = {229--254},
    month   = aug, 
    year    = 2006

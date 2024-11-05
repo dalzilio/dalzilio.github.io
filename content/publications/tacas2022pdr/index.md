@@ -41,6 +41,7 @@ We propose a semi-decision procedure for checking generalized reachability prope
    series    = {Lecture Notes in Computer Science},
    volume    = {13243},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-030-99524-9_28},
    pages     = {505--523},
    month     = mar, 
    year      = 2022

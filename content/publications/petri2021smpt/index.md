@@ -51,6 +51,7 @@ We define a method for taking advantage of net reductions in combination with a 
    series    = {Lecture Notes in Computer Science},
    volume    = {12734},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-030-76983-3_9},
    pages     = {164--185},
    month     = jun, 
    year      = 2021

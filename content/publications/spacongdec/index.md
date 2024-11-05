@@ -7,7 +7,7 @@ Silvano Dal Zilio <br />
 In _ASIAN'00_ — _6th Asian Computing Science Conference_, nov 2000.
 """
 projects = [""]
-tags = ["Concurrency", "Mobility", "Mobile Ambients", ]
+tags = ["Concurrency", "Mobile Ambients", ]
 doi = "10.1007/3-540-44464-5_8"
 +++
 Silvano Dal Zilio <br />
@@ -56,6 +56,7 @@ In this paper, we show that it is decidable to check whether two ambient calculu
    series    = {Lecture Notes in Computer Science},
    volume    = {1961},
    publisher = {Springer-Verlag},
+   doi = {10.1007/3-540-44464-5_8},
    month     = nov, 
    year      = 2000
 }

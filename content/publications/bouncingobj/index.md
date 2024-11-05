@@ -7,7 +7,7 @@ Silvano Dal Zilio <br />
 In _SOAP'98_ — _1st International Workshop on Semantics of Objects as Processes_, jul 1998.
 """
 projects = [""]
-tags = ["Semantics", "Objects", ]
+tags = ["Semantics", "Objects", "Pi calculus", ]
 
 +++
 Silvano Dal Zilio <br />

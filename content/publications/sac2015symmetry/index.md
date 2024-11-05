@@ -7,7 +7,7 @@ Pierre-Alain Bourdil, Bernard Berthomieu, Silvano Dal Zilio, François Vernadat 
 In _SAC 2015_ — _30th Annual ACM Symposium on Applied Computing_, apr 2015.
 """
 projects = [""]
-tags = ["Verification", "Time Petri nets", "Tina", ]
+tags = ["Verification", "Time Petri nets", "tina", ]
 doi = "10.1145/2695664.2695803"
 +++
 Pierre-Alain Bourdil, Bernard Berthomieu, Silvano Dal Zilio, François Vernadat <br />
@@ -42,6 +42,7 @@ We propose a method to exploit the symmetries of a realtime system represented b
    title     = {{Symmetry reduced state classes for time petri nets}},
    booktitle = {SAC 2015 -- 30th Annual ACM Symposium on Applied Computing},
    publisher = {ACM},
+   doi = {10.1145/2695664.2695803},
    pages     = {1751--1758},
    month     = apr, 
    year      = 2015

@@ -40,6 +40,7 @@ We provide a translation of Fisher-Honsell-Mitchell's delegation-based object ca
    series    = {Lecture Notes in Computer Science},
    volume    = {1684},
    publisher = {Springer-Verlag},
+   doi = {10.1007/3-540-48321-7_11},
    pages     = {148--160},
    month     = aug, 
    year      = 1999

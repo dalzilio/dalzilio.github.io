@@ -37,6 +37,7 @@ We study dynamical properties of PB systems, a new computational model of biolog
    series    = {Lecture Notes in Computer Science},
    volume    = {2933},
    publisher = {Springer-Verlag},
+   doi = {10.1007/b95207},
    pages     = {153--167},
    month     = jan, 
    year      = 2004

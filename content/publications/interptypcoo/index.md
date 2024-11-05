@@ -7,7 +7,7 @@ Silvano Dal Zilio <br />
 In _IFIP TCS 2000_ — _International Conference on Theoretical Computer Science_, aug 2000.
 """
 projects = [""]
-tags = ["Concurrency", "Objects", ]
+tags = ["Concurrency", "Objects", "Pi calculus", ]
 doi = "10.1007/3-540-44929-9_29"
 +++
 Silvano Dal Zilio <br />
@@ -39,6 +39,7 @@ We propose an interpretation of a typed concurrent calculus of objects based on 
    series    = {Lecture Notes in Computer Science},
    volume    = {1872},
    publisher = {Springer-Verlag},
+   doi = {10.1007/3-540-44929-9_29},
    pages     = {409--424},
    month     = aug, 
    year      = 2000

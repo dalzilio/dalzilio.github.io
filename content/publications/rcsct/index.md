@@ -58,6 +58,7 @@ Our method generalises an approach designed for first-order functional languages
    series    = {Lecture Notes in Computer Science},
    volume    = {3170},
    publisher = {Springer-Verlag},
+   doi = {10.1016/j.tcs.2006.01.017},
    pages     = {68--82},
    month     = aug, 
    year      = 2004

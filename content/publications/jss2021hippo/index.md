@@ -7,7 +7,7 @@ Pierre-Emmanuel Hladik, Félix Ingrand, Silvano Dal Zilio, Reyyan Tekin <br />
 _Journal of Systems and Software_ 181, nov 2021.
 """
 projects = [""]
-tags = ["Verification", "Tools", "Robotics", "Hippo", ]
+tags = ["Verification", "Tools", "Robotics", "hippo", ]
 doi = "10.1016/j.jss.2021.111033"
 +++
 Pierre-Emmanuel Hladik, Félix Ingrand, Silvano Dal Zilio, Reyyan Tekin <br />
@@ -39,6 +39,7 @@ The design of embedded real-time systems requires specific toolchains to guarant
    title   = {{Hippo: A formal-model execution engine to control and verify critical real-time systems}},
    journal = {Journal of Systems and Software},
     volume  = {181},
+   doi = {10.1016/j.jss.2021.111033},
    month   = nov, 
    year    = 2021
 }

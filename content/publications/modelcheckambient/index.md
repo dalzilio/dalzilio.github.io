@@ -7,7 +7,7 @@ Witold Charatonik, Silvano Dal Zilio, Andrew D. Gordon, Supratik Mukhopadhyay, J
 _Theoretical Computer Science_ 308(1):277—331, nov 2003.
 """
 projects = [""]
-tags = ["Concurrency", "Mobility", "Mobile Ambients", ]
+tags = ["Concurrency", "Mobile Ambients", ]
 doi = "10.1016/S0304-3975(02)00832-0"
 +++
 Witold Charatonik, Silvano Dal Zilio, Andrew D. Gordon, Supratik Mukhopadhyay, Jean-Marc Talbot <br />
@@ -40,6 +40,7 @@ We settle the complexity bounds of the model checking problem for the ambient ca
    journal = {Theoretical Computer Science},
    number  = {1},
    volume  = {308},
+   doi = {10.1016/S0304-3975(02)00832-0},
    pages   = {277--331},
    month   = nov, 
    year    = 2003

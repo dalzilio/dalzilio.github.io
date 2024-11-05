@@ -49,6 +49,7 @@ In _ATVA 2012_ — _10th International Symposium on Automated Technology for Ver
    booktitle = {ATVA 2012 -- 10th International Symposium on Automated Technology for Verification and Analysis},
    series    = {Lecture Notes in Computer Science},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-642-33386-6_23},
    month     = oct, 
    year      = 2012
 }

@@ -49,6 +49,7 @@ Our proof method is based on a new class of tree automata for unranked, unordere
    title     = {{A Logic you Can Count On}},
    booktitle = {POPL 2004 -- 31st Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages},
    publisher = {ACM Press},
+   doi = {10.1145/982962.964013},
    month     = jan, 
    year      = 2004
 }

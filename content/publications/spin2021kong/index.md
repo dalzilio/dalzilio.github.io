@@ -7,7 +7,7 @@ Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan <br />
 In _SPIN 2021_ — _International Symposium on Model Checking Software_, jun 2021.
 """
 projects = [""]
-tags = ["Verification", "Petri", "Reductions", "Tools", "Kong", ]
+tags = ["Verification", "Petri", "Reductions", "Tools", "kong", ]
 doi = "10.1007/978-3-030-84629-9_3"
 +++
 Nicolas Amat, Silvano Dal Zilio, Didier Le Botlan <br />
@@ -49,6 +49,7 @@ We propose a new method for accelerating the computation of a concurrency relati
    series    = {Lecture Notes in Computer Science},
    volume    = {12864},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-030-84629-9_3},
    pages     = {45--62},
    month     = jun, 
    year      = 2021

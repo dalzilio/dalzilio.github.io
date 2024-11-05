@@ -7,7 +7,7 @@ Silvano Dal Zilio, Bernard Berthomieu <br />
 In _TTCS 2015_ — _1st IFIP International Conference on Topics in Theoretical Computer Science_, aug 2015.
 """
 projects = ["briefcase"]
-tags = ["Verification", "Time Petri nets", "Tina", "Patterns", ]
+tags = ["Verification", "Time Petri nets", "tina", "Patterns", ]
 doi = "10.1007/978-3-319-10512-3_7"
 +++
 Silvano Dal Zilio, Bernard Berthomieu <br />
@@ -43,6 +43,7 @@ A classical method for model-checking timed properties, such as those expressed 
    series    = {Lecture Notes in Computer Science},
    volume    = {9541},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-319-10512-3_7},
    pages     = {85--99},
    month     = aug, 
    year      = 2015

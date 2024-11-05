@@ -7,7 +7,7 @@ Elvio Amparore, Bernard Berthomieu, Gianfranco Ciardo, Silvano Dal Zilio, France
 In _TACAS 2019_ — _Tools and Algorithms for the Construction and Analysis of Systems_, apr 2019.
 """
 projects = [""]
-tags = ["Verification", "Petri", "Tina", ]
+tags = ["Verification", "Petri", "Contest", "tina", ]
 doi = "10.1007/978-3-030-17502-3_4"
 +++
 Elvio Amparore, Bernard Berthomieu, Gianfranco Ciardo, Silvano Dal Zilio, Francesco Gallà, Lom Messan Hillah, Francis Hulin-Hubard, Peter Gjøl Jensen, Loïg Jezequel, Fabrice Kordon, Didier Le Botlan, Torsten Liebke, Jeroen Meijer, Andrew Miner, Emmanuel Paviot-Adet, Jiří Srba, Yann Thierry-Mieg, Tom van Dijk, Karsten Wolf <br />
@@ -45,6 +45,7 @@ The Model Checking Contest (MCC) is an annual competition of software tools for 
    series    = {Lecture Notes in Computer Science},
    volume    = {11429},
    publisher = {Springer-Verlag},
+   doi = {10.1007/978-3-030-17502-3_4},
    month     = apr, 
    year      = 2019
 }

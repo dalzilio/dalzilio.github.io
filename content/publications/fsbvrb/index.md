@@ -51,6 +51,7 @@ We define a simple stack machine for a first-order functional language and show 
    series    = {Lecture Notes in Computer Science},
    volume    = {3210},
    publisher = {Springer-Verlag},
+   doi = {10.1007/b100120},
    pages     = {265--279},
    month     = sep, 
    year      = 2004
