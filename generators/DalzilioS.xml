@@ -3806,4 +3806,87 @@
     <tags>Verification, Petri, Tools, Reductions, Octant</tags>
   </inproceedings>
 
+
+  <inproceedings key="TOOLympics2023">
+    <authors>
+      <author>&namat;</author>
+      <author>
+        <name>Amparore</name>
+        <forename>Elvio</forename>
+      </author>
+      <author>&bernard;</author>
+      <author>
+        <name>Bouvier</name>
+        <forename>Pierre</forename>
+      </author>
+      <author>&dalzilio;</author>
+      <author>
+        <name>Hulin-Hubard</name>
+        <forename>Francis</forename>
+      </author>
+      <author>
+        <name>Jensen</name>
+        <forename>Peter Gjøl</forename>
+      </author>
+      <author>
+        <name>Jezequel</name>
+        <forename>Loïg</forename>
+      </author>
+      <author>
+        <name>Kordon</name>
+        <forename>Fabrice</forename>
+      </author>
+      <author>
+        <name>Li</name>
+        <forename>Shuo</forename>
+      </author>
+      <author>
+        <name>Paviot-Adet</name>
+        <forename>Emmanuel</forename>
+      </author>
+      <author>
+        <name>Petrucci</name>
+        <forename>Laure</forename>
+      </author>
+      <author>
+        <name>Srba</name>
+        <forename>Jiří</forename>
+      </author>
+      <author>
+        <name>Thierry-Mieg</name>
+        <forename>Yann</forename>
+      </author>
+      <author>
+        <name>Wolf</name>
+        <forename>Karsten</forename>
+      </author>
+    </authors>
+    <title>Behind the Scene of the Model Checking Contest, Analysis of Results from 2018 to 2023</title>
+    <booktitle>
+      <short>TOOLympics Challenge 2023</short>
+      <long>Updates, Results, Successes of the Formal-Methods Competitions</long>
+    </booktitle>
+    <year>2024</year>
+    <month>11</month>
+    <doi>10.1007/978-3-031-67695-6_3</doi>
+    <volume>14550</volume>
+    <series>&LNCS;</series>
+    <publisher>&SV;</publisher>
+    <abstract>
+      <p>This paper takes you behind the scenes of the Model Checking Contest (MCC), an annual
+        competition focusing on the behavioral analysis of asynchronous systems using state-space
+        exploration and model checking techniques.</p>
+
+      <p>The MCC is part of a thriving group of scientific events dedicated to provide a fair
+        evaluation of formal analysis tools, with the goal to push forward the state of the art and
+        provide insights into the evolution of the involved technologies and approaches. We give
+        details on the organization of the competition and on the ways we manage models and
+        formulas. We also take a look at the evolution of the results over the 2018—2023 period,
+        using the wide variety of data we collect each year, and report on the impact the MCC had on
+        the competing tools.</p>
+    </abstract>
+    <tags>Verification, Petri, Contest</tags>
+  </inproceedings>
+
+
 </bibliography>

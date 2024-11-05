@@ -15,7 +15,7 @@
         <xsl:value-of select="/bibliography/@author"/>
     </xsl:variable>
 
-    <xsl:variable name="outputfolder">/Users/dalzilio/Documents/WEBSITE/blowfishsite/content/publications/</xsl:variable>
+    <xsl:variable name="outputfolder">/Users/dalzilio/Documents/WEBSITE/dalzilio.github.io/content/publications/</xsl:variable>
 
     <xsl:template match="/">
         <xsl:for-each select="/bibliography/*">
