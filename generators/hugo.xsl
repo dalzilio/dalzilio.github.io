@@ -242,6 +242,8 @@ url_custom = [{name = "Custom Link", url = "http://example.org"}] -->
 </xsl:if>
 <xsl:if test="publisher">   publisher = {<xsl:value-of select="publisher"/>},
 </xsl:if>
+<xsl:if test="doi">   doi = {<xsl:value-of select="doi"/>},
+</xsl:if>
 <xsl:if test="pages">   pages     = {<xsl:value-of 
   select="pages/@bgn"/>--<xsl:value-of select="pages/@end"/>},
 </xsl:if>   month     = <xsl:apply-templates select="month" mode="bibtex"/>, 
@@ -286,6 +288,8 @@ url_custom = [{name = "Custom Link", url = "http://example.org"}] -->
  <xsl:if test="number">  number  = {<xsl:value-of select="number"/>},
 </xsl:if>
  <xsl:if test="volume">   volume  = {<xsl:value-of select="volume"/>},
+</xsl:if>
+<xsl:if test="doi">   doi = {<xsl:value-of select="doi"/>},
 </xsl:if>
  <xsl:if test="pages">   pages   = {<xsl:value-of 
  select="pages/@bgn"/>--<xsl:value-of select="pages/@end"/>},
