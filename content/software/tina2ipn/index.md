@@ -63,7 +63,8 @@ Save
 
 You can directly load the resulting `.rdp` file in the simulator. Open the file
 in a text editor and check for the presence of spurious spaces or line breaks
-before opening it in PetriNXT.
+before opening it in PetriNXT. If you do not see a dialog to save the file, please check directly 
+in your Downloads folder, since it may have automatically saved the file there.
 
 <script src="./js/tina2ipn.js"></script>
 
