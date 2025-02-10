@@ -22,7 +22,7 @@ The result should appear below.
 <p id="TTFileDisplayArea"></p>
 
 Here is an example of a [correct translation
-table](../files/translation_tableIPN.txt).
+table](./files/translation_tableIPN.txt).
 
 ---
 
