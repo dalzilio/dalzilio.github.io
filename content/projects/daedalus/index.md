@@ -6,7 +6,7 @@ title = "Daedalus"
 date = 2021-10-31
 
 # Project summary to display on homepage.
-summary = """Oct 20218 &mdash; Oct 2021.
+summary = """Oct 2018 &mdash; Oct 2021.
 
 &ldquo;_In a perfect world, models would always be correct and verification
 tools would answer all our questions. In the Daedalus project, we are preparing
