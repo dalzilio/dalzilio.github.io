@@ -4,7 +4,6 @@ draft: false
 series: ["Model-Checking"]
 series_order: 1
 weight: 10
-draft: false
 ---
 
 ## Exercise 1.  Modeling

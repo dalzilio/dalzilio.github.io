@@ -4,8 +4,6 @@ draft: false
 series: ["Model-Checking"]
 series_order: 5
 weight: 50
-draft: false
----
 ---
 
 ## Exercise 1. LTL semantics on a given trace

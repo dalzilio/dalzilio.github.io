@@ -4,8 +4,6 @@ draft: false
 series: ["Model-Checking"]
 series_order: 4
 weight: 40
-draft: false
----
 ---
 
 ## Exercise 1.  Token ring
