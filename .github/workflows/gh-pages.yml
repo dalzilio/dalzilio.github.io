@@ -19,9 +19,14 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - uses: jakejarvis/hugo-build-action@master # ...or replace 'master' with a full version tag, such as: v0.64.1
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          args: --minify
+          hugo-version: "0.159.0"
+          extended: true
+
+      - name: Build
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
