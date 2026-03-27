@@ -6,6 +6,7 @@ groupByYear: false
 cascade:
   showReadingTime: false
   showAuthor: false
+  showSummary: true
   showhero: true
   heroStyle: "background" # "basic"
   layoutBackgroundBlur: true

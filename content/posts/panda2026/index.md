@@ -1,11 +1,15 @@
 ---
-title: Announcing PaNDA, a tool for the state estimation, prognosis and diagnosability of time Petri nets
+title: Announcing PåNĐA
 date: 2026-03-20
 draft: false
 tags: []
 categories: []
 showhero: true
 heroStyle: "big"
+summary: |
+    PaNDA-TPN is a formal verification
+    tool for the state estimation, prognosis and diagnosability of time Petri nets
+    (TPN).
 ---
 We have recently started work on a new model-checking tool called PåNĐA, for
 time Petri Nets Diagnosability Analyzer.

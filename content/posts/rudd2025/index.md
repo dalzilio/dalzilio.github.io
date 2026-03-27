@@ -6,6 +6,9 @@ tags: []
 categories: []
 showhero: true
 heroStyle: "big"
+summary: |
+    RuDD is a Binary Decision Diagram (BDD) library written in pure Go.
+    Freely available on GitHub.
 ---
 RuDD is a Binary Decision Diagram (BDD) library written in pure Go, without the
 need for CGo or any other external dependencies. A BDD is a data structure used
