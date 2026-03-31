@@ -1,6 +1,6 @@
 ---
 title: RuDD, a Binary Decision Diagrams library in pure Go
-date: 2026-03-20
+date: 2025-10-20
 draft: false
 tags: []
 categories: []
