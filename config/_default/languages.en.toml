@@ -38,7 +38,7 @@ links = [
   #     { foursquare = "https://foursquare.com/username" },
   { hal = "https://cv.archives-ouvertes.fr/dalzilio" },
   { github = "https://github.com/dalzilio" },
-  #     { gitlab = "https://gitlab.com/username" },
+  { gitlab = "https://gitlab.laas.fr/dalzilio" },
   { google-scholar = "https://scholar.google.fr/citations?user=pyT3QKYAAAAJ" },
   #     { hashnode = "https://username.hashnode.dev" },
   #     { instagram = "https://instagram.com/username" },
